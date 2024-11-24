@@ -1,0 +1,1623 @@
+[33m7a41a6685[m[33m ([m[1;36mHEAD -> [m[1;32mjubal[m[33m, [m[1;31morigin/jubal[m[33m)[m tram routing - work in progress
+[33mb73e8889e[m tram routing - work in progress
+[33m18b6c2213[m finding the  nearest tram stop. still needs to be debugged
+[33m7baeac61b[m Merge pull request #1021 from Chameleon-company/Dhruvil
+[33m2fc8a8a3d[m[33m ([m[1;31morigin/Dhruvil[m[33m)[m Delete Playground/Dhruvil/test.txt
+[33m1550034e0[m Add files via upload
+[33mac65bc5d6[m Create test.txt
+[33mb9fdea1e3[m Delete Playground/Dhruvil
+[33ma067c00bd[m Merge pull request #1001 from Chameleon-company/Nishant
+[33m69d69bba3[m Merge pull request #1007 from Chameleon-company/sgulluoglu
+[33mfd9b226c9[m Merge pull request #999 from Chameleon-company/Supratim_T3_2024
+[33m88e4ff66a[m Merge pull request #996 from Chameleon-company/kushani
+[33mbad51b11d[m[33m ([m[1;31morigin/Cjay[m[33m)[m Merge pull request #997 from Chameleon-company/randi
+[33m3bca46141[m Merge pull request #1019 from Chameleon-company/MOP-DS-outdoor-training
+[33mfd73c5fd4[m[33m ([m[1;31morigin/MOP-DS-outdoor-training[m[33m)[m Delete Playground/Ananya/test.txt
+[33m9ae56f676[m File uploaded.
+[33m34bda72a3[m Create test.txt
+[33mf4ea4a7ce[m Merge pull request #1018 from Chameleon-company/master
+[33mb17b945af[m[33m ([m[1;31morigin/randi[m[33m)[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into randi
+[33m49ed28cfe[m[33m ([m[1;31morigin/MOP-DS[m[33m)[m Merge pull request #1017 from Chameleon-company/Sabih
+[33m887ba1902[m[33m ([m[1;31morigin/Sabih[m[33m)[m Delete Playground/Sabih/.ipynb_checkpoints directory
+[33m2e8de9805[m Delete Playground/Sabih/Exploring Greening Laneways and Urban Forest Strategy.ipynb
+[33m2fd73d94d[m Merge branch 'master' into Sabih
+[33m5f0c0a9d9[m Merge pull request #1016 from Chameleon-company/Ryan’s-Secret-Sauce-Trimester3-2024
+[33m5d7d76955[m Delete datascience/usecases/READY TO PUBLISH/T1 2023/UC00004_Live_Events_and_The_Effect_on_Foot_Traffic_and_Business/Fixing.txt
+[33m799c44b2f[m Add files via upload
+[33m8f0a6de71[m Create Fixing.txt
+[33m0638dd33e[m Delete datascience/usecases/READY TO PUBLISH/T1 2023/UC00004_Live_Events_and_The_Effect_on_Foot_Traffic_and_Business	 directory
+[33mc7588b5a5[m Merge pull request #1015 from Chameleon-company/Ryan’s-Secret-Sauce-Trimester3-2024
+[33mc7c551563[m Rename UC00013_Projected_Venue_Growth	.json to UC00013_Projected_Venue_Growth.json
+[33mbafbdbe1f[m Renaming to fix error
+[33m29afe5532[m Renaming to fix error
+[33m348fb2240[m Renaming to fix error
+[33m596100711[m Renaming to fix error
+[33mc7151583b[m Renaming to fix error
+[33maedeccf50[m Merge branch 'master' into Ryan’s-Secret-Sauce-Trimester3-2024
+[33m9d13f0e09[m Merge pull request #998 from Chameleon-company/taehwan_t3
+[33mcddf9fde4[m Merge branch 'master' into Ryan’s-Secret-Sauce-Trimester3-2024
+[33mc7b232be8[m DATA SCIENCE-Accessibility analysis (diversity, inclusion, persons with disabilities/impairments)-90% complete-updated
+[33m331216b30[m Merge pull request #1003 from Chameleon-company/Cjay
+[33m34f9671ba[m Delete Playground/Sabih/Exploring Greening Laneways and Urban Forest Strategy.ipynb
+[33m4003777b1[m Adding .ipynb file
+[33m98beea8f4[m Merge pull request #1010 from Chameleon-company/Kheang
+[33mfad056fab[m[33m ([m[1;31morigin/Kheang[m[33m)[m adding usecase file
+[33m2f3f4f726[m[33m ([m[1;31morigin/sgulluoglu[m[33m)[m delete .gitignore file
+[33m2ebb7a438[m Merge pull request #1005 from Chameleon-company/Poojith
+[33m4d16d6c08[m upd
+[33m1a1617c6b[m update
+[33m425508d80[m u
+[33macd41f953[m update-sprint1
+[33m27aaee333[m adding usecase
+[33m77a525f54[m u
+[33m3d97c689b[m[33m ([m[1;31morigin/Poojith[m[33m)[m Data Science | Enhancing Accessibility to Green Spaces for Urban Residents | 30% Complete
+[33m8740fcc08[m Create Enhancing Accessibility to Green Spaces for Urban Residents
+[33m5809745a6[m Merge pull request #1002 from Chameleon-company/alex_w47
+[33m1eba8a97a[m Delete Playground/Poojith/use_case.ipynb
+[33m409ff9f67[m Delete Playground/Poojith/Enhancing Accessibility to Green Spaces for Urban Residents.ipynb
+[33mfc4312983[m sprint1
+[33m72ae5ada8[m update
+[33m809a5e30d[m update
+[33m01b7114b1[m[33m ([m[1;31morigin/alex_w47[m[33m)[m added code and related cofiguration for usecases Tram-01 and Bus-01
+[33m796a94d19[m Cleaned and Filtered Data, Merged Datasets, and Added Additional Charts and Graphs
+[33m544e3bc57[m Delete .vscode/settings.json
+[33m0724892de[m Delete Playground/OutdoorActivities_Ananya/OpenSpaceFitness.ipynb
+[33m0a271a65b[m[33m ([m[1;31morigin/Nishant[m[33m)[m Use case done upto 40%
+[33m8d3a6d1f9[m update
+[33me7ad12208[m Remove sensitive JSON file and update .gitignore
+[33mf72524504[m Merge pull request #991 from Chameleon-company/Cjay
+[33m6bf08bc76[m update
+[33m0f8827312[m u
+[33ma2ab764f7[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into randi
+[33mb67b85636[m Organized documentation folder by creating new folders for better structure and moved files accordingly.
+[33m6c4d1cad0[m u
+[33m8783e1a40[m Organized documentation folder by creating new folders for better structure and moved files accordingly.
+[33m18a8b0b7d[m Base file to be pushed.
+[33mdde512555[m Organized documentation folder by creating new folders for better structure and moved files accordingly.
+[33m88cf42ca5[m Organized documentation folder by creating new folders for better structure and moved files accordingly.
+[33m2e1845202[m Base file being pushed.
+[33m5c95843f0[m[33m ([m[1;31morigin/taehwan_t3[m[33m)[m Delete Playground/taehwan_t3/pubilc_transport_demand.ipynb
+[33m385625eb1[m update usecase file
+[33md1f4c0c1f[m DATA SCIENCE-Accessibility analysis (diversity, inclusion, persons with disabilities/impairments)-90% complete
+[33m8a157bd70[m update
+[33m4fee48601[m[33m ([m[1;31morigin/Supratim_T3_2024[m[33m)[m Data Loading and Exploration
+[33m2d06d5911[m[33m ([m[1;31morigin/kushani[m[33m)[m Delete Playground/Kushani/Impact of Time, Weather and traffic on Bike and Car Usage.ipynb
+[33m6b65f1480[m Analyzing the Impact of Time, Weather, and Traffic on Bike and Car Usage Patterns
+[33m76e2de762[m[33m ([m[1;31morigin/sabrigulluoglu[m[33m)[m Merge pull request #994 from Chameleon-company/lgbranch
+[33mba21c571a[m[33m ([m[1;31morigin/lgbranch[m[33m)[m Fixing bugs, adding .gitignore and env yaml and updating readme
+[33m11f9958e0[m Create New Microsoft Word Document.docx
+[33ma7171a66b[m sprint1-T3-2024
+[33m80c06f618[m Sprint1-T32024
+[33m7c5e5400e[m sprint1-T3-2024
+[33m5fd893723[m Merge pull request #985 from Glo333/Gloria
+[33m3da25da14[m Updated Use_Case_Summary.md document
+[33mb92f2d705[m Added Use Case ID and Underscores
+[33m43e5debc8[m Added Use Case ID and Underscores
+[33md23b06a9e[m Update Use Case ID
+[33m111aa2f3c[m Added Use Case ID and Underscores
+[33m709a96319[m adding file
+[33mfb1cc8552[m Added Use Case ID and Underscores
+[33m7af0e96ef[m Added Use Case ID and Underscores
+[33mf7fa14e39[m Added Use Case ID and Underscores
+[33m70f47856b[m Merge pull request #989 from Chameleon-company/alex_w47
+[33m77ed2dae0[m added missing code due to merged
+[33medffc65aa[m Merge pull request #988 from Chameleon-company/alex_w47
+[33m905b3907c[m adding new download method, unzip dataset for train, tram and bus. adding method to load dataset by mode(train, tram, bus), adding method to load combine all dataset
+[33mb2c6f3c78[m Integration with Jupyter
+[33m4edf33684[m Creating New folder to start working
+[33m74d0d98bf[m Addting file to start working
+[33mc26eff363[m Creating my folder and Adding File
+[33me06ea96f3[m Rename file
+[33m9dd896e0a[m Create pubilc_transport_demand ipynb file
+[33mca0782dcf[m Merged Poojith branch with remote changes
+[33m1be12839d[m Further Changes
+[33m69f88058d[m use_case.ipynb to Playground folder
+[33m4afff2b89[m Added Use Case ID and Underscores
+[33m0de45bcfc[m Added Poojith directory and Poojith.ipynb to Playground folder
+[33mece8fa6fb[m initial commit for Gloria
+[33m416338a7a[m Delete Example.rtf
+[33me979afdb2[m Create Example.rtf
+[33mb88625885[m Create Example.rtf
+[33m5843319d6[m Merge pull request #983 from Chameleon-company/Cjay
+[33m0e01b0a99[m Add Meeting Agenda Template to datascience/documentation
+[33mb16a3c5be[m Merge pull request #982 from Chameleon-company/kushani
+[33mf9bbc9d9a[m Analysing and Predicting Business Activity for Cafes and Restaurants in Melbourne Progress
+[33m9776962a6[m Delete Playground/Kushani/.ipynb_checkpoints directory
+[33me03f70574[m Created branch and made folder containing .ipynb file
+[33m69547c4d3[m adding files
+[33m95ec4baa9[m Merge pull request #980 from Chameleon-company/Supratim220205268
+[33md13a49c64[m Merge pull request #891 from Chameleon-company/rohang-7-patch-3
+[33m803d66bf9[m Rename .ARCHIVE/README.md to .ARCHIVE/webapp/DOC.md
+[33m124001144[m Rename README.md to README1.md
+[33m3032a08fe[m Moved all random files to the .ARCHIVE folder except README
+[33m5e1d335ed[m Moving unused directories to the .ARCHIVE directory
+[33m9703f5749[m Delete Playground/taehwan_t3
+[33m36fa1437a[m Create taehwan_t3
+[33m09261c36b[m Moving webapp directory into .ARCHIVE directory - Not Used
+[33mba5dc0302[m Rename datascience/d2i_tools2.py to datascience/documentation/d2i_tools2.py
+[33mc5d9c44f4[m Rename API_Tutorial.ipyn to API_Tutorial.ipyn
+[33mb4cf61cac[m Rename ODSQL_API_v2_1_2024_tutorial_v2.ipynb to API_Tutorial.ipyn
+[33me0018e39a[m Delete datascience/usecases/meta_to_json.py
+[33m7ea3d9480[m Delete datascience/usecases/Non CoM Datasets for Update Published Cases.pdf
+[33mca7b1b82e[m Delete datascience/usecases/Non CoM Datasets for Update Published Cases.docx
+[33m900bf89a7[m Delete datascience/usecases/Output_html_file.ipynb
+[33m7a1adb301[m Delete datascience/usecases/Online_LGA_map.ipynb
+[33m0cd4066e7[m Delete datascience/dataanalysis directory
+[33m8af3af42c[m Delete datascience/condaconfiguration directory
+[33m9dfd47fd8[m Rename README.md to README.md
+[33m4a9e6345a[m Rename readme.md to README.md
+[33mc7b269075[m Delete react_webapp/DesignT2-2024/Read-Test
+[33m787777a0a[m Rename archive/webapp/README.md to webapp/README.md
+[33mc5a6282d0[m Rename webapp/README.md to archive/webapp/README.md
+[33md793ccc28[m Create readme.md
+[33ma3f2ee490[m Create Analysing and Predicting Business Activity for Cafes and Restaurants in Melbourne.ipynb
+[33m999ba9729[m Added IDs to T1 2023 usecases
+[33m30d0b01d1[m Create Dhruvil
+[33mbd9416fa1[m Merge pull request #973 from Chameleon-company/Bao_Ngo_T2
+[33m99b70cf50[m[33m ([m[1;31morigin/Bao_Ngo_T2[m[33m)[m Delete playground
+[33m6336dc9aa[m Create Folder
+[33ma11f7c498[m[33m ([m[1;31morigin/Dinuk_Mod[m[33m)[m Merge pull request #945 from Chameleon-company/Vaishali-Thakoor
+[33mafc8ff40a[m[33m ([m[1;31morigin/Vaishali-Thakoor[m[33m)[m updated file names properly
+[33mbd7668361[m made the changes to the graphs
+[33m08450c070[m Merge pull request #959 from Chameleon-company/tharaka_t2
+[33m866ed86a6[m Merge pull request #952 from Chameleon-company/sahancj
+[33m218f2aac3[m[33m ([m[1;31morigin/sahancj[m[33m)[m Delete config.py
+[33m9cb0f2c95[m Remove config.py and API key references
+[33mf865b9e0e[m Remove config
+[33me79145d1d[m[33m ([m[1;31morigin/tharaka_t2[m[33m)[m Moved all files to ready to publish Folder
+[33me5c5ef8ed[m Minor change in markdown
+[33mcb0d66b37[m Move to Ready to Publish
+[33m8ff3a6954[m Revised file names
+[33m2857ba946[m final commit
+[33mf4690ba23[m Revised file names
+[33m3522602ed[m Fix markdown syntax in Nearby Restaurant Hotspots analysis
+[33m7d53f5514[m Merge pull request #971 from Chameleon-company/kocon-cleanVC13
+[33mdf04669fb[m Merge pull request #970 from Chameleon-company/kocon-cleanVC12
+[33m165b04eb4[m Merge pull request #969 from Chameleon-company/kocon-cleanVC11
+[33m3432027fe[m Merge pull request #968 from Chameleon-company/kocon-cleanVC10
+[33m53a4413f6[m Merge pull request #967 from Chameleon-company/kocon-cleanVC9
+[33m2a28781bb[m Merge pull request #966 from Chameleon-company/kocon-cleanVC8
+[33mb4c6bea73[m Merge pull request #965 from Chameleon-company/kocon-cleanVC7
+[33m6d7c100a8[m Merge pull request #964 from Chameleon-company/kocon-cleanVC6
+[33mcd9970ac2[m Merge pull request #963 from Chameleon-company/kocon-cleanVC5
+[33m1d8e3b012[m Merge pull request #962 from Chameleon-company/kocon-cleanVC4
+[33mb35651d15[m Merge pull request #961 from Chameleon-company/kocon-cleanVC3
+[33mdd718a0a5[m Merge pull request #960 from Chameleon-company/kocon-cleanVC2
+[33m684f8f17b[m Merge pull request #958 from Chameleon-company/kocon-cleanVC-1v1
+[33m6155b185f[m[33m ([m[1;31morigin/kocon-cleanVC13[m[33m)[m VC13
+[33m70a7d91f0[m[33m ([m[1;31morigin/kocon-cleanVC12[m[33m)[m VC12
+[33m80d4aaa1c[m[33m ([m[1;31morigin/kocon-cleanVC11[m[33m)[m VC11
+[33m72d66eb5a[m[33m ([m[1;31morigin/kocon-cleanVC10[m[33m)[m VC10
+[33mcf4077c54[m[33m ([m[1;31morigin/kocon-cleanVC9[m[33m)[m VC9
+[33m6a20af4ae[m[33m ([m[1;31morigin/kocon-cleanVC8[m[33m)[m VC8
+[33mc7079ae8f[m[33m ([m[1;31morigin/kocon-cleanVC7[m[33m)[m VC7
+[33mddc9c5307[m[33m ([m[1;31morigin/kocon-cleanVC6[m[33m)[m VC6
+[33ma9ccebc49[m[33m ([m[1;31morigin/kocon-cleanVC5[m[33m)[m VC5
+[33mc93591fc7[m[33m ([m[1;31morigin/kocon-cleanVC4[m[33m)[m VC4
+[33m0c7e69017[m[33m ([m[1;31morigin/kocon-cleanVC3[m[33m)[m VC3 Two Axle Bus
+[33m2fccde4d8[m VC3 working on 2 Axle Buses
+[33m2274306ec[m VC3
+[33m36f801b3c[m[33m ([m[1;31morigin/kocon-cleanVC2[m[33m)[m Moving original samples
+[33m2f990025c[m[33m ([m[1;31morigin/kocon-cleanVC-1v1[m[33m)[m VC1
+[33me16b31476[m VC2
+[33m63a4361c5[m Final update for both projects.
+[33m187e9d993[m VC1
+[33m7ca328e6b[m Merge pull request #956 from Chameleon-company/revert-954-kocon-withmodel
+[33me1614c796[m[33m ([m[1;31morigin/revert-954-kocon-withmodel[m[33m)[m Revert "AI - vehicle classification cleanup"
+[33m83e603703[m Merge pull request #912 from Chameleon-company/ChathuNew
+[33m817b582db[m Merge pull request #953 from Chameleon-company/Dip
+[33m34fc9c326[m Merge pull request #954 from Chameleon-company/kocon-withmodel
+[33m53eb2c842[m[33m ([m[1;31morigin/kocon-withmodel[m[33m)[m Nauman rename
+[33m3ae3ebb8a[m Scripts to help with cleanup
+[33m4828d79f3[m final cleanup for bike, motorbike and van
+[33m35e819cf7[m Merge branch 'master' into kocon-withmodel
+[33m911f5e468[m Made renamed copies, moved originals into completed section
+[33m11f92335b[m Six Axle Artic index change
+[33me940b0245[m Merge pull request #948 from Chameleon-company/Hamza_Nadeem
+[33m9f742149a[m Merge branch 'master' into kocon-withmodel
+[33m8c1f72be3[m invalid 6-axle samples
+[33m73690b641[m[33m ([m[1;31morigin/Dip[m[33m)[m report
+[33m668970358[m Merge pull request #946 from Chameleon-company/naga_nikhil_woopalanchi
+[33m6247f6943[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into naga_nikhil_woopalanchi
+[33m7f6d968c6[m Merge pull request #935 from Chameleon-company/Sabih
+[33me812bfc6a[m Update
+[33m8db2af2ee[m Merge pull request #869 from Chameleon-company/Venuka_t2
+[33mef7075a29[m added legends to graphs and fixed the eror in the bus and tram dataset description showing html in the table
+[33m534e902de[m Moved use cases to Ready to publish and Update needed folders
+[33m7442fefa1[m Merge pull request #930 from Chameleon-company/Akintomiwa
+[33md30385127[m Added html files
+[33me1a30f365[m Merge pull request #901 from Chameleon-company/Sinan
+[33me8c778cfe[m Name clean up
+[33ma34001eee[m Map and analysis update
+[33m90cb4b165[m[33m ([m[1;31morigin/Hamza_Nadeem[m[33m)[m Create Project_final_submission.ipynb
+[33md5ea48c81[m Explore the datasets
+[33m52d511cbc[m Finalized use case write-up
+[33m43991e06b[m pedestrian analysis code clean up
+[33m826004a15[m Merge pull request #904 from Chameleon-company/Uvini1
+[33m995c9abbe[m Merge pull request #947 from Chameleon-company/Liny
+[33m4828bd469[m updating landmark houseprice usecase
+[33md4f44b11d[m moved Pedestrian Count to ready to publish
+[33m8c7345324[m creating json and Html files for the API repointing usecases
+[33m5ede7daf1[m Merge pull request #824 from Chameleon-company/SamarthShah
+[33m88b6ab10d[m Merge pull request #918 from Chameleon-company/chathu_1
+[33m7fd549e2e[m Merge pull request #902 from Chameleon-company/katrine
+[33m4b54afdc4[m Use Case Updated
+[33md7ac80500[m Merge pull request #942 from Chameleon-company/daljeet
+[33mfa571e2b2[m Merge pull request #883 from Chameleon-company/Alireza
+[33m80d551980[m Merge pull request #906 from Chameleon-company/sgulluoglu
+[33mda81bf5c0[m Merge pull request #903 from Chameleon-company/Liny
+[33m22a545820[m Merge pull request #890 from Chameleon-company/taehwan
+[33mda156cc76[m Merge pull request #908 from Chameleon-company/Samiha
+[33m77c8ae377[m Changed File location
+[33mc154acec3[m Merge pull request #874 from Chameleon-company/naga_nikhil_woopalanchi
+[33mc834da298[m deleted my folder in playground
+[33me645ecd50[m Merge branch 'master' into naga_nikhil_woopalanchi
+[33m496590c9d[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into VaishaliT
+[33m540a866b6[m branch clean up
+[33mb625fcb9a[m Moving files to their various files
+[33m16254eacb[m Merge pull request #938 from nancy-spec/nance
+[33m565d2bfcd[m Merge pull request #940 from Chameleon-company/Sarfaraz-Syed
+[33m3316ccacd[m Merge pull request #943 from Chameleon-company/harshdwivedi
+[33m4085e0b51[m Delete Playground/LiveabilityAnalysis_samiha directory
+[33m443c89659[m fixed imports at top of the code
+[33m2ebf65f00[m[33m ([m[1;31morigin/harshdwivedi[m[33m)[m deleted folders inside playground
+[33ma210392d4[m updated files
+[33m3fe77983a[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code
+[33m63b6910fd[m Merge pull request #939 from Chameleon-company/Eanthony2
+[33m33963f0df[m Created using Colab
+[33m4460a8578[m Final Pull Request
+[33md4ff5aba6[m Merge pull request #936 from Chameleon-company/harshdwivedi
+[33m3987571c6[m Merge pull request #896 from Chameleon-company/trostov2
+[33m5cac0d278[m Merge pull request #895 from Chameleon-company/trostov
+[33m6c2ade810[m[33m ([m[1;31morigin/Eanthony2[m[33m)[m Delete Playground/
+[33m11102fc60[m Updated usecase files
+[33m35d481448[m[33m ([m[1;31morigin/Sarfaraz-Syed[m[33m)[m Update ExtraTreeRegression.ipynb
+[33m628a9a0f5[m[33m ([m[1;31morigin/ChathuNew[m[33m)[m Uploaded the files
+[33m3a526080a[m changed file names
+[33mee4f5fba5[m Added updated files
+[33m522fd773b[m Create health behaviour prediction and safety at night.ipynb
+[33m1d206d9e9[m Delete Health Behavior predictions with location safety.py
+[33m66682c7aa[m Delete Health Behavior predictions with location safety updated.py
+[33m9bc9d0223[m Create code.py
+[33m1fd1b6395[m Update GradientBoostingRegression.ipynb
+[33m49e744a29[m Create safety prediction with health behavior.py
+[33mfd826ca26[m my contributuon
+[33m62f6710bb[m health behavior and safety prediction  update code
+[33m059251e83[m Add title and legend to the maps.
+[33m41234a9dc[m added description to Parking Availability Near Places of Interest in Melbourne
+[33m77fcdf563[m Hotspot Map Updated
+[33m68662bf0a[m[33m ([m[1;31morigin/chathu_1[m[33m)[m Use Case Final Upload
+[33mc8dcc7c03[m Delete Playground/chathu directory
+[33m4247460de[m Delete Playground/chathu/placeholder.txt
+[33mefc5392d3[m Merge pull request #934 from Chameleon-company/CI-CD_Documentation
+[33m5ed576b96[m add files
+[33m4f04e3935[m updating files
+[33mf5bb5f764[m Merge branch 'daljeet' of https://github.com/Chameleon-company/MOP-Code into daljeet update from master :wq
+[33mec4e6ae5b[m Created using Colab
+[33m4bf7c605b[m Change of title and duration
+[33m96a302ced[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code
+[33m6a27efce5[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code
+[33m277b94f17[m Moved usecases to the correct folders
+[33m3f625f749[m Merge branch 'master' into Sabih
+[33m4ff79fe38[m Update
+[33ma1cedcec7[m Business establishment
+[33med948a020[m idk2
+[33m727a1ca78[m Merge pull request #932 from Chameleon-company/luilding
+[33m142770c6a[m Uploading script without html output to make it more reasonable size
+[33md769eab32[m[33m ([m[1;31morigin/SamarthShah[m[33m)[m Fix: Remove map from folder
+[33mb60300321[m vc10
+[33m4d8ae517d[m idk
+[33m4d193243e[m Three Axle Trucks and Buses
+[33m27f137d09[m Merge pull request #926 from Chameleon-company/luilding
+[33m349b8d824[m VC8
+[33m2614e0c8d[m Five Axle Articulated
+[33m61a5089b6[m Delete vc8-details.txt
+[33m689a926a0[m Triple road train changes
+[33m51489d6b7[m Unknowns renamed
+[33m9805e2251[m added vc6
+[33mfcc14906e[m Merge pull request #855 from Chameleon-company/Kevinbui16-code-AI-vehicle-Classification
+[33mf1a92f290[m Merge pull request #867 from Chameleon-company/SaiPriyamvada
+[33maae5e72e3[m Merge pull request #909 from Chameleon-company/SaiPriyamvada21-patch-1
+[33me05d6e9c4[m Merge pull request #873 from Chameleon-company/Dip
+[33m131dcd3ce[m Merge pull request #928 from Chameleon-company/qasim
+[33m03d3b7695[m[33m ([m[1;31morigin/CI-CD_Documentation[m[33m)[m CI/CD Documentation
+[33m9564c0597[m Merge pull request #922 from Chameleon-company/SurajKuwar-patch-5
+[33m7f8f18bfe[m Merge pull request #921 from Chameleon-company/SurajKuwar-patch-4
+[33m1168b1133[m Merge pull request #920 from Chameleon-company/SurajKuwar-patch-2
+[33me06a16685[m Merge branch 'Akintomiwa' of https://github.com/Chameleon-company/MOP-Code into Akintomiwa
+[33m3bad51443[m jason , html and fuction list documentation added
+[33m85b1eadc4[m Apply code scanning fix for flask app is run in debug mode
+[33m78afe6070[m  function list code update
+[33m3a411df33[m code clean up
+[33mb7270c88e[m Updating html file
+[33m2e10f7f37[m Update exploring business establishments in the city of melbourne by Anzsic4 classification and CLUE small area.ipynb
+[33meb1da346b[m Updating JSON file
+[33m7f7cf9c22[m update diff
+[33m1c8514199[m Merge pull request #894 from Chameleon-company/Adersh
+[33mc7155c498[m Merge pull request #913 from Chameleon-company/Dinuk_T2
+[33m30b0b44dd[m Merge pull request #927 from Chameleon-company/luilding-patch-1
+[33mc4bb15571[m[33m ([m[1;31morigin/luilding-patch-1[m[33m)[m Update README.md
+[33m271626d7e[m Adding travel time and directions
+[33m1b7e36eff[m Data Science Team Use case Update
+[33m815cfb8ca[m Merge pull request #870 from Chameleon-company/Ziqinzhao
+[33m6ce7b0a78[m Merge pull request #821 from Chameleon-company/Ethan
+[33m22bf6b774[m Updating file names
+[33m2fdb7c446[m Merge pull request #888 from Chameleon-company/balexiadis
+[33mb5e8cc773[m Merge branch 'master' into luilding
+[33m6fca4d0db[m Merge pull request #919 from Chameleon-company/luilding
+[33m8e2eb557d[m Merge branch 'master' into luilding
+[33m4e61d83cb[m updated the changes as requested
+[33md438061cc[m Merge pull request #900 from Chameleon-company/Manasa
+[33maf73d17bd[m Merge branch 'Manasa' of https://github.com/Chameleon-company/MOP-Code into Manasa
+[33mda8087d34[m Updated files
+[33mf9bb4327d[m Merge pull request #925 from Chameleon-company/jnaneshwari
+[33mb030a81af[m Created using Colab
+[33m5d0ebcfc1[m Created using Colab
+[33me46fb7249[m Merge branch 'jnaneshwari' of https://github.com/Chameleon-company/MOP-Code into jnaneshwari
+[33m4740d85b8[m deleted some unnecessary files
+[33m6590f3d09[m added Top five business hotspots in Melbourne
+[33m42c25385c[m Merge pull request #893 from Chameleon-company/rohang-7-patch-4
+[33mf29305b6b[m Merge pull request #911 from Chameleon-company/Awaze-Mohommed
+[33m73c63a708[m Moved the Files to Publish Folder
+[33m36acb4982[m Update New-Use-Case-Difference Between Age Groups.ipynb
+[33mf454db375[m Merge branch 'master' into Adersh
+[33m831757c39[m[33m ([m[1;31morigin/qasim[m[33m)[m added power bi report in this commit
+[33md089d547a[m update
+[33m3721107d7[m Fix: Updated file
+[33m49b78e713[m Delete playground folder
+[33me83921685[m Final Wedding Planner
+[33m9992a7dc9[m Added json file and html file of wedding planner
+[33m022e46481[m[33m ([m[1;31morigin/SurajKuwar-patch-5[m[33m)[m Add files via upload
+[33m60db9de27[m[33m ([m[1;31morigin/SurajKuwar-patch-4[m[33m)[m Add files via upload
+[33m6776f9e82[m[33m ([m[1;31morigin/SurajKuwar-patch-2[m[33m)[m Add files via upload
+[33m690fd339d[m[33m ([m[1;31morigin/francis[m[33m)[m Merge pull request #864 from Chameleon-company/francis
+[33m4798592e0[m Adding spacy training files and readme file for project
+[33mcb3c995a2[m Merge pull request #907 from Chameleon-company/aishwarya_m
+[33m73c720844[m Delete datascience/usecases/READY TO PUBLISH/T2 2024/Assessing_Parking_Availability_Around _Restaurants/test.txt
+[33m4fecd4bd3[m Add files via upload
+[33m9eeefb1b4[m Create test.txt
+[33ma973cf8b6[m Folders moved to Ready to publish folder
+[33mddb54cbd8[m Merge branch 'master' into Liny
+[33m006d2c39b[m Created two folders
+[33m5ba7b6698[m Merge pull request #889 from Chameleon-company/RAGHAVA-CHANGES
+[33m3e03d6045[m Merge pull request #880 from Akshit-Kawa/AkshitKawa
+[33m168bfd02a[m Moved Files & Done requested changes
+[33m2009670e2[m Merge pull request #847 from Chameleon-company/armanbkhtr-patch-2
+[33m848f83d2e[m Merge pull request #898 from Chameleon-company/Jnaneshwari-beerappa-patch-6
+[33mb0b6f7e28[m[33m ([m[1;31morigin/Awaze-Mohommed[m[33m)[m Added Pedestrian Foot Traffic and Footpath Utilization notebook
+[33m1ef5a8d33[m Delete Playground/Sai Priyamvada directory
+[33md721e7c96[m Moving documents to correct folder
+[33m1bfb177f8[m Updated the user case
+[33m7e1891f30[m adding files to ready to publish
+[33m98a01aeb9[m[33m ([m[1;31morigin/aishwarya_m[m[33m)[m Changed the folders
+[33mb0772b19e[m deleted use case from update needed folder
+[33m89de17808[m Adding to Ready to Publish folder
+[33mab9b0b950[m update
+[33md9ab55d3e[m update
+[33m854d7a812[m Delete Playground/sgulluoglu/parking-slot-occupancy-detection directory
+[33m7303832f8[m Revert "moved to the related folder"
+[33maca90e8db[m moved to the related folder
+[33m5fb9952c0[m Merge branch 'sgulluoglu' of https://github.com/Chameleon-company/MOP-Code into sgulluoglu
+[33m643fa78ff[m Delete Playground/sgulluoglu/parking_slot_occupancy_detection directory
+[33m156e12ce5[m update
+[33m1edd694ad[m Merge branch 'master' into Venuka_t2
+[33m18cc47022[m Create .txt
+[33m4a773e556[m Moving Use case files to Ready to publish folder
+[33m5f7b362da[m Delete Katrine from Playground
+[33md6b353ac7[m remove the unnecessary file
+[33m63320ae15[m[33m ([m[1;31morigin/Uvini1[m[33m)[m Final push to ready to publish
+[33m36da3e127[m added the files to the use case
+[33m68d39f9df[m Update exploring business establishments in the city of melbourne by Anzsic4 classification and CLUE small area.ipynb
+[33m5a7131f10[m Merge pull request #899 from Chameleon-company/Sachitha_KT2
+[33md3e5a4fc9[m Merge branch 'master' into Venuka_t2
+[33mbe51a0316[m Merge branch 'master' into Dinuk_T2
+[33m335d0cd99[m Merging master into Uvini1
+[33m1f2b5c192[m Completed and added both the use cases
+[33mb58fe92b4[m Project handover
+[33m13d79a302[m Merge branch 'Manasa' of https://github.com/Chameleon-company/MOP-Code into Manasa updating pull origin
+[33mbe002a61b[m adding files
+[33mcb4252846[m Complete Analysis
+[33m4eac9d2fa[m Delete datascience/usecases/READY TO PUBLISH/T2 2024/Urban_Growth_and_Transit_Planning_for_Melbourne.txt
+[33m56739702e[m Added .html and .json files
+[33m7bbb5631d[m Urban_Growth_and_Transit_Planning_for_Melbourne.txt
+[33m70468b14c[m Moving my  use cases files to Ready To Publish
+[33m65dd25ae6[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into Sachitha_KT2 Updating my local repo
+[33m0d571eb73[m add document
+[33m4e2c49bf1[m Create sample.txt
+[33mea92083a4[m Update parking_slot_occupancy_detection.ipynb
+[33m7a60ef5cd[m Create parking_slot_occupancy_detection.json
+[33mb24502ee2[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into jnaneshwari updating the origin from master
+[33m4272bed1b[m Delete datascience/usecases/READY TO PUBLISH/T2 2024/Social Indicator Changes/placeholder.txt
+[33m44053d96b[m Delete datascience/usecases/READY TO PUBLISH/T2 2024/Soil Analysis and Prediction/placeholder.txt
+[33m1639903bb[m Add files via upload
+[33m0c4de44cb[m Add files via upload
+[33m1024ceef9[m Create placeholder.txt
+[33m9bb559bbf[m Add files via upload
+[33ma70c6f092[m Create placeholder.txt
+[33m88ac08013[m[33m ([m[1;31morigin/rohang-7-patch-4[m[33m)[m Data science - Tracking_Unique_Insect_Species_in_the_City_of_Melbourne - 70% complete
+[33m6841d5e69[m Added the files
+[33mc93182163[m Tracking_Unique_Insect_Species_in_the_City_of_Melbourne
+[33ma94f4b34b[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into Manasa
+[33m0b93d6487[m Created using Colab
+[33mdc20ff66e[m[33m ([m[1;31morigin/test_uvini1[m[33m)[m Finalize the code
+[33m57aaa3f1b[m Upload final report present
+[33m031e20d2c[m Merge pull request #872 from Chameleon-company/Nauman-Abid-VC-Triple-12
+[33m9756a25a0[m[33m ([m[1;31morigin/RAGHAVA-CHANGES[m[33m)[m I HAVE MADE CHANGES IN PRIVACY POLICY FONT AND BG
+[33ma5f0115ba[m Merge pull request #887 from Chameleon-company/Nauman-Abid-TA-Use-Case-3
+[33m3febfcf1b[m[33m ([m[1;31morigin/taehwan[m[33m)[m Move files to READY TO PUBLISH
+[33mf23809854[m[33m ([m[1;31morigin/balexiadis[m[33m)[m How to Run Web App Tutorial
+[33m2e6c4be57[m Merge branch 'master' into taehwan
+[33m3b930b558[m[33m ([m[1;31morigin/Nauman-Abid-TA-Use-Case-3[m[33m)[m Power BI Updated
+[33mdacc51261[m Merge pull request #871 from Chameleon-company/Nauman-Abid-TA-Use-Case-3
+[33mb31188b36[m updated
+[33mcc9fcad0e[m Merge pull request #879 from VioletKhaing/VioletMLModel
+[33m4b36275ed[m Final
+[33mf24b55cff[m Finalize files for sprint 3 pull request
+[33mdd8c753e7[m Merge branch 'master' into Alireza
+[33m382cb2189[m Rename folder taehwan to Tourism Impact Analysis
+[33md4c0deac3[m  Desings for SingUp Page Mobile view and Dark Mode
+[33m9d2b7e010[m update final version of ipynb file
+[33m14461a8a3[m Fix image paths in README.md for proper display
+[33m14f56a297[m update html file
+[33m266bba3a7[m updata final version of ipynb file
+[33mc4ce8f9c3[m updated all files
+[33mfb8a2127c[m Merge pull request #878 from rajatgupta1999/RajatGupta
+[33md4c106cb1[m Login Page Dark Mode
+[33md9ca4e6f1[m Mobile View Design
+[33m1fac7efb3[m finalcode update-ready to submit
+[33m357fefd75[m update final version of ipynb file
+[33m0d8e1aeb1[m update final version of ipynb file
+[33mc56364b62[m Waste analysis at Degraves Street and business distribution & employment trends use cases completed
+[33maf34f2940[m Merge branch 'taehwan' of https://github.com/Chameleon-company/MOP-Code into taehwan
+[33m9918b7141[m Update final version of ipynb file
+[33m9df9234cd[m Delete Tourism_Impact_Analysis.ipynb
+[33mde546cf02[m Merge branch 'taehwan' of https://github.com/Chameleon-company/MOP-Code into taehwan
+[33m9e9ec420f[m Update final version of tourism impact analysis .ipynb file
+[33m801b2042b[m Add files via upload
+[33m47825997d[m Add files via upload
+[33m525a16fcd[m Final notebook to submit
+[33m3e803636f[m Merge pull request #876 from Chameleon-company/KaimonDeBruijne
+[33m8702fed88[m Merge pull request #769 from Chameleon-company/Trivy-Integration-for-Security-Measures
+[33m485d2cf45[m Merge pull request #839 from md0311/MOP_WD_Mihir_Dobariya#PR2
+[33m4dde44d9e[m Rename Domestic overnight visitors.csv to Domestic_overnight_visitors.csv
+[33m039382d5a[m Add files via upload
+[33m2d87a0ade[m[33m ([m[1;31morigin/Trivy-Integration-for-Security-Measures[m[33m)[m new image name updated
+[33me4a4d9e88[m Small change to complete use case
+[33m4570f0ee9[m Resolve conflits
+[33maebeec280[m Updating the completed use case
+[33m6d9e3c374[m Resolve conflits
+[33m80fa1b780[m Merge branch 'master' of https://github.com/md0311/MOP-Code into MOP_WD_Mihir_Dobariya#PR2
+[33m109b216c1[m updated
+[33mccf5b9062[m[33m ([m[1;31morigin/Nauman-Abid-VC-Triple-12[m[33m)[m Updated VC
+[33m443c62174[m Updated Use Case 3
+[33m04ee98309[m 1. Move "Implement Distance Calculation Using YOLOv8" codes to new folder.
+[33m4b54b4b57[m Completed Use case
+[33m6ff753b0f[m Adding Guide Document to the folder
+[33mcfd0bb704[m Making Final Changes
+[33m9faa7b71a[m Merge pull request #865 from Chameleon-company/Sarfaraz-Syed
+[33m7fea37a77[m Folder Creation
+[33m86d19c394[m Merge pull request #861 from Chameleon-company/qasim
+[33m72df370c5[m initial commit
+[33m98e214e32[m API updated
+[33mf7de25393[m cleaning up the code
+[33m4cbbbc544[m New API implemented
+[33m6f85d85e5[m API repointing for bus stops count
+[33mceea21a18[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code
+[33m0733f8b5d[m API repointing done
+[33m2529db427[m cleaning up the code
+[33m572ea571c[m updating the API
+[33mbee696797[m updating to New API
+[33m60798157c[m moved file for API repointing
+[33m7efe6f0b4[m updated and final code for trafic analysis by vehicle weight
+[33mab63f4009[m documentation
+[33m4b3f96825[m Merge pull request #866 from Chameleon-company/Upeksha_and_Shevin
+[33mfba5064ba[m[33m ([m[1;31morigin/Upeksha_and_Shevin[m[33m)[m Redesign login page
+[33mcdd4848f6[m Delete Playground/taehwan/test.txt
+[33m5a86e3337[m Delete high_risk_road_segments_map.html
+[33m1b69727e0[m Merge pull request #863 from VioletKhaing/VioletMLModel
+[33m3a607537c[m final changes
+[33mff1d7577d[m Merge pull request #845 from Chameleon-company/privacy-responsive
+[33mc508bbf3e[m Data Science - Tram and Bus Usecase
+[33m9fea7be90[m Merge pull request #858 from Chameleon-company/thamasha_final
+[33m6bd311b2e[m Code for ML Model and Documentation
+[33m15a31867c[m Removed "New Business Location"
+[33m02dcaa3cc[m updated and final code for trafic analysis by vehicle weight
+[33m3e39a28a4[m Put the two use case in separate folders
+[33mf9a17e00b[m Merge pull request #857 from Chameleon-company/hariprasad
+[33mc6187d89b[m Rename the use case name
+[33md4ec5095a[m Final Check
+[33m6b5fc68e4[m[33m ([m[1;31morigin/hariprasad[m[33m)[m Delete artificial-intelligence/chatbot/code/mpt_bot/models/20240910-203123-fancy-stool.tar.gz
+[33m11b5a2ae1[m Delete artificial-intelligence/chatbot/code/mpt_bot/models/20240910-195328-dichotomic-datum.tar.gz
+[33mbf53edacc[m[33m ([m[1;31morigin/thamasha_final[m[33m)[m Updated signup functionality to use 'mop' database in MongoDB Atlas
+[33m659284fe3[m Moved to archive folder
+[33mcea37c482[m Create parser.py
+[33mbcf0b7ead[m Update domain.yml
+[33m3d39f16f3[m Update config.yml
+[33m2e696699f[m Update stories.yml
+[33m2820cad6a[m Update rules.yml
+[33m5ea58eac4[m Update rules.yml
+[33m284ccb03c[m Update rules.yml
+[33m3b1fd7a09[m Update nlu.yml
+[33ma49761296[m Update actions.py
+[33m219c9cd92[m[33m ([m[1;31morigin/MOP_WD_FrontEnd_MinhKP#PR3[m[33m)[m Fixed Color Difference of Text Box
+[33m154feab84[m Moved to archive directory
+[33mb8a438e0f[m Initial UI - python(flask) file
+[33m93bd5de4b[m Initial UI - html file
+[33m79a08b30e[m Initial UI - js file
+[33ma96031e54[m Delete Playground/Manasa/Urban_Growth_and_Transit_Planning for Melbourne
+[33m221bd81da[m Urban_Growth_and_Transit_Planning for Melbourne
+[33m79c85ffe0[m Initial UI - css file
+[33mca237be8d[m Delete artificial-intelligence/chatbot/code/mpt_bot/.rasa/cache directory
+[33mbaf01be74[m Upload Json file
+[33mce22935ac[m Merge pull request #842 from Chameleon-company/Saiteja_Design
+[33m8bde924b9[m Merge pull request #843 from Chameleon-company/WD_Design_RadhaKrishna
+[33m696e221fd[m Merge pull request #844 from Chameleon-company/about-us-page-v2
+[33m06f36b7bb[m Merge pull request #848 from Chameleon-company/WD_Hoang
+[33m926eaee46[m upload html file
+[33m8ae53650d[m Trailer moved, Two Axle Truck copies sidelined
+[33mc87096b4c[m Technical document
+[33m763c07763[m Delete Playground/Manasa/git_command.docx
+[33mbe7118773[m Created using Colab
+[33m6085dff35[m Merge pull request #856 from VioletKhaing/master
+[33mff0ddf3a3[m[33m ([m[1;31morigin/Kevinbui16-code-AI-vehicle-Classification[m[33m)[m Add files via upload
+[33mc92efb096[m Sedan standardised
+[33ma9a798fbe[m Remove copy of VC1
+[33m56918f6ae[m Merge branch 'Chameleon-company:master' into master
+[33mbe557acf3[m Consolidated V_Class_2
+[33m79aa696ac[m Boat adjustments
+[33mebaced0b2[m Merge pull request #852 from Chameleon-company/Dip
+[33m52beb9cbd[m Boat samples
+[33meea1d1c3f[m copy paste
+[33m781601071[m Two Axle Truck rename
+[33mbdb17d1e0[m Four Axle Truck renamed
+[33m749db29eb[m Four-Axle Artic updated
+[33macb4173b2[m 1.update better yolov8 models and codes 2.Add Depth estimation codes
+[33meb96c7fec[m Triple Road Train fix
+[33me8db48b84[m[33m ([m[1;31morigin/WD_Hoang[m[33m)[m edit code for gcp deployment
+[33m9c40b2a70[m Merge branch 'master' into kocon-withmodel
+[33ma1a4e252b[m Merge pull request #802 from Chameleon-company/JING_KANG_NEW
+[33mf463a440d[m Merge branch 'master' into kocon-withmodel
+[33meef5e8af4[m c
+[33m7a84f3846[m Merge pull request #834 from Chameleon-company/MOP_WD_Adrian_Weerasinghe_PR6--update-
+[33me0b197c78[m Merge pull request #1 from VioletKhaing/VioletKhaing-mlmodel
+[33m5cad26667[m Creating a commit to upload ML model code
+[33m969036489[m updating my usecase
+[33m5c5e308fc[m[33m ([m[1;31morigin/armanbkhtr-patch-2[m[33m)[m Add files via upload
+[33m51ddc3aee[m[33m ([m[1;31morigin/MOP_WD_FrontEnd_MinhKP#PR2[m[33m)[m Adjusted Font Size & Layout for small screen sizes
+[33m3635abecd[m Fix Privacy Page Responsiveness
+[33mcb861533b[m About-Page-Design-v2
+[33m0c05219e3[m[33m ([m[1;31morigin/WD_Design_RadhaKrishna[m[33m)[m RadhaKrishna_Design_Changes
+[33m59a3da7ef[m[33m ([m[1;31morigin/Saiteja_Design[m[33m)[m WD_Design_Saiteja
+[33m35b36a7ea[m[33m ([m[1;31morigin/MOP_WD_Adrian_Weerasinghe_PR6--update-[m[33m)[m Delete next_webapp/src/app/chatbot/jenkinsfile
+[33m9b3c7d565[m Merge pull request #835 from Chameleon-company/MOP_WD_Adrian_Weerasinghe_PR7-update-
+[33m73a940fc2[m Merge pull request #826 from Chameleon-company/WD_Hoang
+[33mf1b879fb2[m Merge pull request #790 from Chameleon-company/abhishek_UseCaseUpload_PR3
+[33mb1e52629e[m Merge branch 'master' into WD_Hoang
+[33ma3931f521[m Delete artificial-intelligence/chatbot/.rasa/cache directory
+[33m44e23ed86[m Delete artificial-intelligence/chatbot/actions directory
+[33m45bc7098c[m Delete artificial-intelligence/chatbot/data directory
+[33m50ecc989d[m Delete artificial-intelligence/chatbot/models directory
+[33md30fbe9b0[m Delete artificial-intelligence/chatbot/tests directory
+[33mc628ac73e[m Delete artificial-intelligence/chatbot/ui directory
+[33m78130ee92[m Delete artificial-intelligence/chatbot/config.yml
+[33mcc40f73f2[m Delete artificial-intelligence/chatbot/credentials.yml
+[33mb1f62877f[m Delete artificial-intelligence/chatbot/domain.yml
+[33m1a1c0cb8a[m Delete artificial-intelligence/chatbot/endpoints.yml
+[33m9a544efe9[m Use Case Code and Chatbot UI Code
+[33m528309b69[m UI Changes-1
+[33md2ae77213[m Rasa fine-tuning : Updated code with Train dataset
+[33m7786eae3b[m Rasa fine-tuning : Updated code with Train dataset
+[33m4a23a2842[m Rasa fine-tuning : Updated code with Train dataset
+[33mb624e7970[m Rasa fine-tuning : Updated code with Train dataset
+[33me52ed5079[m Rasa fine-tuning : Updated code with Train dataset
+[33md4d9a83b5[m Rasa fine-tuning : Updated code with Train dataset
+[33m8835d69f1[m Rasa fine-tuning : Updated code with Train dataset
+[33m153748719[m Rasa fine-tuning : Updated code with Train dataset
+[33m673634a48[m Base Code
+[33m5ca93a9fc[m Responsivesness fix in footer.tsx, dashboard.tsx and dashboardcasestd.tsx
+[33mba343a7da[m Relationship between trees and birds heatmap
+[33m9a1c83f78[m Ending Use Case
+[33mac502d0ea[m Merge pull request #836 from Chameleon-company/luilding
+[33m61d7b11f0[m Modifying python mapping script
+[33m73ff289ef[m Integrating mapping actions with UI
+[33m7e630d7b8[m[33m ([m[1;31morigin/MOP_WD_Adrian_Weerasinghe_PR7-update-[m[33m)[m MOP_WD_Adrian_Weerasinghe_PR7 [update]
+[33m237746b4d[m Merge pull request #812 from AhmadRx03/master
+[33m763c482ca[m Merge pull request #828 from Shevin1/Shevin
+[33ma7533f788[m MOP_WD_Adrian_Weerasinghe_PR6 [update]
+[33ma9bc8eef5[m Privacy dark and licensing mobile
+[33mc7f7c3a5e[m[33m ([m[1;31morigin/abhishek_UseCaseUpload_PR3[m[33m)[m Updated the Upload page trimester dropdown
+[33m93554331a[m Merge pull request #827 from Chameleon-company/Radhakrishna_mopwebdev_statistics
+[33m659b9a12c[m[33m ([m[1;31morigin/Radhakrishna_mopwebdev_statistics[m[33m)[m worked on responsiveness of statistics page
+[33me7a2ec519[m Update aboutus  page.tsx with original content
+[33m282bea91f[m Update about page.tsx with original code
+[33m82d4dd008[m Implemented stats in statistics page + redesign
+[33md040e0a89[m Added case studies to home page
+[33m74e9e83fd[m Merge pull request #822 from Chameleon-company/abhishek-chiluka99-patch-3
+[33ma64a7dd32[m Merge pull request #823 from Chameleon-company/alex_ui1
+[33m5b2be5a73[m Merge pull request #793 from Chameleon-company/WD_licensing_Usman_PR#1
+[33m57495a0a9[m Merge branch 'master' into kocon-withmodel
+[33m5a458e471[m Van changes
+[33m36c6a1bab[m[33m ([m[1;31morigin/alex_ui1[m[33m)[m Adding MPT Chatbot UI
+[33m60834b8ac[m[33m ([m[1;31morigin/alex_ui[m[33m)[m Adding MPT Chatbot UI
+[33md33afe4e4[m[33m ([m[1;31morigin/WD_licensing_Usman_PR#1[m[33m)[m changes made
+[33m8c3aca9cb[m[33m ([m[1;31morigin/Ethan[m[33m)[m Add files via upload
+[33md080bbee7[m[33m ([m[1;31morigin/abhishek-chiluka99-patch-3[m[33m)[m Add files via upload
+[33me55bba25e[m Updated the Upload page with align of the sentenece
+[33mebef60a3c[m Merge pull request #777 from Chameleon-company/origin/muhammad
+[33m17c3ef7f4[m Merge pull request #816 from Chameleon-company/WD_Home-page_Usman_PR1
+[33m41f971b00[m[33m ([m[1;31morigin/WD_Home-page_Usman_PR1[m[33m)[m Border
+[33m8b49cead0[m Merge pull request #820 from Chameleon-company/backend_chaya
+[33m4666cc31c[m Merge pull request #810 from Bruce-Li7/master
+[33m01f8922d0[m Merge pull request #819 from Chameleon-company/tolulope
+[33m28ceee92b[m[33m ([m[1;31morigin/backend_chaya[m[33m)[m usecase
+[33m2cd208f4d[m usecase
+[33mac2a476ba[m usecase
+[33mcfc8efeb6[m[33m ([m[1;31morigin/tolulope[m[33m)[m Create HB with chatbot updated output.py
+[33m26f29dfbb[m fixed the white gap at the bottom of the page
+[33m449f55153[m[33m ([m[1;31morigin/WD_statistics_Usman_PR1[m[33m)[m Merge pull request #818 from Chameleon-company/luilding
+[33m577896b0d[m editing readme file
+[33m56b97b32a[m Merge pull request #817 from Chameleon-company/luilding
+[33m1750dba16[m Adding visualisation folder
+[33m327f8153a[m Home page color change
+[33m29199e693[m[33m ([m[1;31morigin/luil[m[33m)[m Merge pull request #814 from Chameleon-company/luilding-patch-1
+[33mfeddce98c[m Rename readme.md to READMEmd
+[33m901fde776[m Merge pull request #813 from Chameleon-company/luilding
+[33mf7997cd9b[m Updating data processing pipeline and files for speed analysis
+[33m8cbd93ddc[m Updating data processing pipeline
+[33m0de300564[m Adding speed analysis files
+[33m89d4deb22[m Mobile Contact Us Page 2
+[33md0aedc6ab[m Mobile - Contact Us Page
+[33mf105d7f3d[m Dark Mode - Case Studies
+[33m1a7369713[m Merge pull request #811 from Chameleon-company/chaya_new
+[33m195896acf[m Vans renamed
+[33mede81f6f3[m Merge pull request #809 from Chameleon-company/Sheafy888-patch-5
+[33mcefb635b6[m Merge pull request #807 from Chameleon-company/Sheafy888-patch-4
+[33mfd5b26036[m Merge pull request #806 from Chameleon-company/Sheafy888-patch-3
+[33m9374e4d0b[m[33m ([m[1;31morigin/chaya_new[m[33m)[m login
+[33m997cde545[m WD_Design_Jiaqi Li_light mode design for OTP and Fwd pages
+[33mc4a60a041[m WD_Design_Jiaqi Li_Dark Theme Design for OTP and fwd pages
+[33m6ed497493[m WD_Design_Jiaqi Li  Homepage Mobile view Design
+[33m79d1c62f9[m[33m ([m[1;31morigin/Sheafy888-patch-5[m[33m)[m WD_Design_Tyler_PR#5
+[33m71905c405[m Merge pull request #808 from Chameleon-company/WD_Design_Saiteja_LightView
+[33m0f62270db[m[33m ([m[1;31morigin/WD_Design_Saiteja_LightView[m[33m)[m Create Folder for Light theme Designs
+[33me43573578[m Merge pull request #736 from Chameleon-company/qasim
+[33m60f072cc2[m[33m ([m[1;31morigin/Sheafy888-patch-4[m[33m)[m WD_Design_Tyler_PR#4
+[33md011c6bb7[m[33m ([m[1;31morigin/Sheafy888-patch-3[m[33m)[m WD_Design_Tyler_PR#3
+[33m5ea8d767a[m Merge pull request #805 from Chameleon-company/WD_Design_Saiteja_MobileView
+[33mb056452dc[m Merge pull request #804 from Chameleon-company/s224013556-patch-1
+[33m9f9772055[m[33m ([m[1;31morigin/WD_Design_Saiteja_MobileView[m[33m)[m Create Folder for Mobile view designs
+[33m59bda96e5[m[33m ([m[1;31morigin/s224013556-patch-1[m[33m)[m WD_Design_Saiteja_DarkTheme
+[33mfe6711b95[m Merge pull request #795 from Chameleon-company/balexiadis
+[33m61dc93e4f[m changed some lines so i can upload
+[33m9f76b06ab[m Merge branch 'abhishek_UseCaseUpload_PR3' of https://github.com/Chameleon-company/MOP-Code into abhishek_UseCaseUpload_PR3
+[33m59b772f0c[m Updated the Upload page with field and Header allignment
+[33mea1a3f64b[m Merge pull request #794 from Chameleon-company/Nauman-abid(VC)
+[33m52fa54f6a[m Upload trained model and test result
+[33m69d3450dc[m[33m ([m[1;31morigin/JING_KANG_NEW[m[33m)[m 20240911 Six Axle Articulated
+[33m293f28cfd[m Merge pull request #799 from Chameleon-company/ChathuNew
+[33m446be2338[m Add File
+[33m63c9a3ec5[m Merge pull request #797 from Chameleon-company/ChathuSatharasinghe-patch-1
+[33m35310df52[m Final Edits
+[33mb22878cc2[m[33m ([m[1;31morigin/ChathuSatharasinghe-patch-1[m[33m)[m Create .txt
+[33m7ffa49f5b[m Update models and spatial analysis
+[33m79ebfda84[m WebDev_Contact_Us_Page_Responsivness_Issue_Muhammad
+[33m034dfdfd8[m Use Case Completion and "New Business Location" Updates
+[33m7cec97c77[m uploaded code for basic web application
+[33m20990cac3[m Finalized Code
+[33m769b76479[m Added Urban Flood Management and Emergency Response.ipynb
+[33me54ab3c5e[m Finalized use case report and API integration
+[33m32192fb16[m Finalizing the use case
+[33m2f0e38bf7[m Licensing Page: context update and background color change
+[33m59dcc9d4f[m Model  Development
+[33m104fee32b[m Merge pull request #778 from Chameleon-company/Dinuk_T2
+[33ma064adacd[m Commented out code
+[33m62b34cf5f[m Nauman VC
+[33m5587d797d[m Replaced old images with new ones in the new branch
+[33m802a9c2bc[m Use case write-up
+[33m43e1af89d[m Merge pull request #792 from Chameleon-company/Sachitha_KT2_Doc
+[33ma47836b4d[m Finishing up the use case part 3
+[33mc3a29e83a[m Finishing up the use case part 2
+[33mfd7cd79ad[m Finishing up the use case part 1
+[33m8df6e125e[m Adding 2 Guide docs
+[33mfca7bd1e5[m Removed
+[33m200625c1b[m Removed
+[33m12d246088[m Merge pull request #791 from Chameleon-company/lguilding4
+[33m621f943fe[m Readding mapping and directions
+[33m803fdc69a[m Update page.tsx
+[33m72adf50b9[m Update the Upload page with working of it
+[33m844b924e2[m Docker image name error fixed
+[33m702789cf6[m Merge pull request #763 from Chameleon-company/Sheafy888-patch-2
+[33m8f6d954ec[m Merge pull request #781 from Chameleon-company/WD_Hoang
+[33m2f374cff8[m Merge pull request #785 from Chameleon-company/AntonyJr321-patch-1
+[33m564201b8b[m[33m ([m[1;31morigin/AntonyJr321-patch-1[m[33m)[m Delete Playground/Adersh/usecase_TEMPLATE.ipynb
+[33me33659a7f[m Delete usecase_TEMPLATE.ipynb
+[33m9b96776b6[m Update New-Use-Case-Difference Between Age Groups.ipynb
+[33me3d859380[m deployment phase
+[33mae01e94b8[m Uploading Guide Docs to my Brach
+[33m33fe93e0f[m removed some uecases to reduce load
+[33m9023d730e[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into WD_Hoang
+[33m3243e1c86[m Created using Colab
+[33ma6d5d5f27[m Guide Document Update New
+[33md9b3dfac9[m Guide Document Update
+[33m4583e96d9[m Analysis of both datasets
+[33mccd6ee491[m Interpret user case
+[33me1d248f53[m Reverting Changes in GitHub: A General Guide
+[33m3919ef295[m Merge pull request #773 from Chameleon-company/Rohang
+[33m2d7f2a8df[m WD_Fix_Contact_Us_Page_Responsiveness_Muhammad
+[33md75f22e39[m Merge pull request #768 from Chameleon-company/alex1
+[33m05b86f4a4[m Update: More Feature added
+[33m2142bad32[m[33m ([m[1;31morigin/Rohang[m[33m)[m Tracking_Unique_Insect_Species_in_the_City_of_Melbourne
+[33m4ab4257ab[m Added
+[33m72196b39e[m Removed
+[33me6956278d[m Added Power BI, Geocoding, and Distance Matrix Guide Documents
+[33m012c6db3f[m[33m ([m[1;31morigin/alex_0609[m[33m)[m update the latest actions
+[33m3d95b5166[m use cases appear on load
+[33mff20a7d0d[m Added case study page functionality + redesign
+[33mcd8ba0b17[m Merge pull request #767 from Chameleon-company/Ziqinzhao
+[33m3a10e4162[m Upload case 7 Coding using Yolov8
+[33m5dab6c559[m Trivy Security Scan Implemented
+[33mbd961aff3[m[33m ([m[1;31morigin/alex1[m[33m)[m Major Changes: loading dataet  directly from the live source/ Integrated with the map genration. the map will be generated rigt after the trip information and use able to click on the link to see the route map details
+[33ma4f2a8d98[m Created using Colab
+[33m2d702975c[m feat: Complete end-to-end prediction task analysis
+[33mc0b477942[m Map of trees surrounding bird spotted areas
+[33m69821cb4b[m Merge pull request #730 from Chameleon-company/WD_privacypolicy_Usman#PR1
+[33m74e9a7d53[m Update all new labels
+[33me1b0370a7[m Created using Colab
+[33mf9930435f[m Upload new images
+[33mc574b1fb5[m Upload new Double Road Train images and labels
+[33me6ebd2b4d[m Upload new MAD labels (150 train and 30 val )
+[33m9f15484c4[m Upload new B Double labels (150 train and 30 val )
+[33m95417a3d2[m Created using Colab
+[33me20193e7a[m Upload new B double 180 images ( 150 train and 30 val )
+[33m64619125d[m[33m ([m[1;31morigin/Sheafy888-patch-2[m[33m)[m Wireframe - About Us
+[33md2aeac52c[m Random forest classifier and logistic regression
+[33m12a0a65e2[m Model
+[33ma779f654b[m Merge pull request #747 from Chameleon-company/armanbkhtr-patch-1
+[33m4200cdd8a[m Merge pull request #749 from Chameleon-company/Kevin-Vehicle-Classification
+[33ma79e70bcb[m Create merged_traffic_datav1.csv
+[33m6c03574c6[m EDA
+[33md7cca5cad[m Merge pull request #752 from Chameleon-company/balexiadis
+[33m64d40dc2d[m Delete cameleon project files and placeholder file as not useful now
+[33mfc80b3167[m  Perform descriptive analysis and make minor adjustments
+[33m3daf52e59[m dataset
+[33mea44410e5[m Add files via upload
+[33md71f792c5[m Merge pull request #750 from Chameleon-company/katrine
+[33mdf0d210fa[m Successfully introduced safest footpath picking mechanism
+[33mbfac25bfc[m Upload new MAD 180 images （150 trains ， 30 val）
+[33m32280fa6d[m Upload new Double Road Train 180 images (150 train , 30 val)
+[33m7ed581e4d[m Merge pull request #755 from Chameleon-company/MOP_WD_Adrian_Weerasinghe_PR5
+[33ma0cf8fffe[m[33m ([m[1;31morigin/MOP_WD_Adrian_Weerasinghe_PR5[m[33m)[m Merge branch 'master' into MOP_WD_Adrian_Weerasinghe_PR5
+[33m3340ae3fe[m Merge pull request #754 from Chameleon-company/MOP_WD_Adrian_Weerasinghe_PR4
+[33m09ce5dc05[m[33m ([m[1;31morigin/MOP_WD_Adrian_Weerasinghe_PR4[m[33m)[m Merge branch 'master' into MOP_WD_Adrian_Weerasinghe_PR4
+[33m034466808[m Updated the sign up page. fixed all the syntax errors
+[33me45a2b851[m Merge pull request #753 from Chameleon-company/WD_Hoang
+[33m6ddf7ed1b[m Added NLP to the chatbot
+[33mb09015a8c[m Merge pull request #743 from Chameleon-company/MOP_WD_Adrian_Weerasinghe_PR3-update-
+[33mc6c1c4634[m updating the function list
+[33m8265ee5d3[m updating the function list
+[33mf0760a39c[m updating the function list
+[33me4b81ea67[m updating the function list
+[33m95b3b6ad4[m updating the function list
+[33m2756034d5[m removing the function list from the update needed folder
+[33m9a58573e8[m moving the function list to my branch
+[33mcd207735d[m updating
+[33mc95f82fa3[m Update exploring business establishments in the city of melbourne by Anzsic4 classification and CLUE small area.ipynb
+[33m0ede7bfd3[m delete old data
+[33mc9ee096da[m Create Train and Test yolov8 with your data.pdf
+[33m705ce8b33[m updated annotations to fit 13 classes
+[33ma3e29e717[m Merge pull request #751 from Chameleon-company/thamashag_new
+[33m54d80fc4a[m Updated labels
+[33mb29c322fc[m Sign up UI
+[33mab24a6268[m Vehicle class 1
+[33m4b27971a0[m update pull request document
+[33m322661afe[m Update Pull Request Instruction
+[33m521d3ee67[m Merge pull request #748 from Chameleon-company/5axleartic-el-lk
+[33m42e4037ad[m[33m ([m[1;31morigin/5axleartic-el-lk[m[33m)[m Kocon's train-val organisation
+[33mf1363e764[m[33m ([m[1;31morigin/armanbkhtr-patch-1[m[33m)[m Add files via upload
+[33m963618ea6[m removed test file
+[33m5aab00e66[m remade Header and Footer  and made them fully responsive
+[33mf1039fb70[m added other 5-axle vehicles, removed the single duplicate
+[33m8eb627590[m Update Analyzing and Predicting Business Activity for Cafes and Restaurants in Melbourne.ipynb
+[33mddfbe2d82[m Delete Train and Test yolov8 with your data.pdf
+[33m7ce60a139[m Train and Test Yolov8 with your data tutorial
+[33m866957bfd[m Merge pull request #739 from Chameleon-company/icloud-fix
+[33m559bb03d0[m Update parking_slot_occupancy_detection.ipynb
+[33m7cbfb8ce6[m Add files via upload
+[33m3d580a78c[m Trees surrounding bird spotted areas
+[33m14215885d[m Created using Colab
+[33m33715cc70[m Lucas' samples of 5-Ax semitrailers
+[33m9d2baabc6[m GRU test with public air quality dataset
+[33m5446d0a41[m Simplify Seating Data for Visualization
+[33mf862a7d25[m Added Birds Map
+[33ma0e493efd[m Added Trees Heatmap
+[33m7e9802b83[m[33m ([m[1;31morigin/MOP_WD_Adrian_Weerasinghe_PR3-update-[m[33m)[m updated jenkins file
+[33m2dea81147[m[33m ([m[1;31morigin/thamasha_g[m[33m)[m Merge pull request #740 from Chameleon-company/thamashag_new
+[33m756269cb2[m Merge branch 'master' into thamashag_new
+[33m35e40dd88[m Update signup page UI and remove redundant signup button
+[33mcfe86c33c[m Revert "Merge pull request #700 from Chameleon-company/Chathumini_t2"
+[33m18e8159ec[m uploaded all files for unknown vehicles
+[33m4910cbd0e[m Merge pull request #642 from Chameleon-company/Kevin-Vehicle-Classification
+[33md632d1974[m Created using Colab
+[33mb6396522d[m Merge pull request #737 from Chameleon-company/balexiadis
+[33m4a50a4ae4[m changed some file names
+[33m6c26eaeb2[m Merge pull request #734 from Chameleon-company/balexiadis
+[33m323efbace[m plotting the accuracy of the model
+[33m1a73c9546[m building my models
+[33me6dd6f586[m EDA updated
+[33mf306d9285[m Added folders and images again
+[33m33271f729[m Added folders and images again
+[33m69cc8b399[m data analysis
+[33m391cc6a8b[m adding sedan boat trailer and caravan images
+[33m6e6e3a0c6[m Upload new B double image22 and 22 labels
+[33m28a246706[m Created new folder Three Axle Bus , Upload 150 images(120 train and 30 val ),Upload 150 labels (120 train and 30 val )
+[33m7e8085ade[m Merge pull request #735 from Chameleon-company/MOP_WD_Adrian_Weerasinghe_PR2--privacy-page-fix-
+[33m593976a9f[m[33m ([m[1;31morigin/MOP_WD_Adrian_Weerasinghe_PR2--privacy-page-fix-[m[33m)[m fixed issue
+[33mbcef9ce79[m created new folder Three Axle Truck Upload 150 images (120 train and 30 val) and 150 labels (120 train and 30 val)
+[33m1c23325bc[m Performing change for clarity
+[33m3192e25c8[m Update
+[33m6de1caf76[m Preprocessing Part 2
+[33me67e2f14e[m[33m ([m[1;31morigin/alex_uc1234[m[33m)[m Full implementation for UC 1-4 and 13
+[33m54c6e13b6[m Remove duplicate and unwanted files
+[33mc8d72af8e[m Analysis Part 2
+[33m4e978a7b9[m Update Business establishments  (land use) and jobs.ipynb
+[33m3ab34a045[m Upload 180 labels （150 train labels and 30val labels)
+[33m207462a1e[m Created new folder Heavy Trick Trailer and Upload 180images(150train and 30 val)
+[33m35acd6044[m Add files via upload
+[33m3d8df7835[m Delete artificial-intelligence/Traffic Analysis/team_project_analysis/traffic volumn and composition analysis.ipynb
+[33medf5bac5e[m dimensionality reduction using tsne
+[33mdb0110cb7[m Ideantified restaurant hotspots on map
+[33m5ba8c2f44[m Font size chaged as requested by Hoang
+[33m9e9c69885[m Made a minor change in time series plot
+[33mb0205bf9f[m Merge pull request #686 from Chameleon-company/nipun
+[33meaeed516e[m Merge pull request #720 from Chameleon-company/PranjalSingh
+[33m969e77ddc[m all files for 4 axle articulated
+[33maa46526a7[m feature selection and resampling
+[33m30ab2b617[m Initiated descriptive analysis – analyze trend of total jobs and seating capacity
+[33me097f7122[m Importing 2nd Dataset
+[33m044ed23fa[m[33m ([m[1;31morigin/lakshh[m[33m, [m[1;31morigin/laksh[m[33m)[m Merge pull request #700 from Chameleon-company/Chathumini_t2
+[33mf6e7fd864[m Merge pull request #692 from Bruce-Li7/master
+[33m35afcc3a7[m Merge pull request #710 from Chameleon-company/Adersh
+[33maea7775d2[m Merge pull request #721 from Chameleon-company/mptbot
+[33m41cbfe380[m Merge pull request #713 from Chameleon-company/Ethan
+[33m38ae0c40f[m Labels annotated to proper number
+[33me342237e5[m Merge pull request #653 from Chameleon-company/sgulluoglu
+[33mefce99ca3[m[33m ([m[1;31morigin/mptbot[m[33m)[m added mpt chatbot using rasa framework
+[33m88af2964c[m Edited Statistics Page style
+[33m192de30a1[m Update data_cleaning.ipynb
+[33mcb552a333[m Update data_cleaning.ipynb
+[33me4de73af7[m data cleaning
+[33mdfc38a087[m Merge pull request #712 from Chameleon-company/chaya
+[33mc74230eb6[m Add files via upload
+[33m4d7852f7f[m Merge pull request #714 from Chameleon-company/sahana
+[33m50645137c[m Merge pull request #717 from Chameleon-company/Rohang
+[33m2abce9024[m Add files via upload
+[33m255c1e454[m Create sample.txt
+[33m5606b609d[m Merge pull request #716 from Chameleon-company/daljeet
+[33m521eaabe3[m Created using Colab
+[33m490bedb5f[m Created using Colab
+[33mda1f9664e[m Create rigid23-googleimages-lucaskocon-001.jpg
+[33m60c13515a[m Add files via upload
+[33mdcfbaefb1[m Merge branch 'clickclackety'
+[33m5a97ed785[m[33m ([m[1;31morigin/clickclackety[m[33m)[m Removing upload folder and replacing with datapreprocessing pipeline, containing entire pipeline now
+[33mca5fe69f7[m Rename Influence of Employment on Price of Houses to Influence of Employment on Price of Houses.ipynb
+[33m168da3437[m Merge pull request #639 from Chameleon-company/Eanthony
+[33maa23703a6[m Merge pull request #689 from Chameleon-company/lucaskocon
+[33mbf5e6c5fb[m Merged updates from Tharaka's file into cameleon-project.ipynb
+[33m8ccfafb2d[m Merge pull request #645 from Chameleon-company/Alireza
+[33mc11db4c94[m Merge pull request #629 from Chameleon-company/Sinan
+[33m22a67c30d[m Images and Annotations of 2 Axle Bus
+[33m025569cf2[m Create Jnaneshwari Beerappa
+[33m95e9dde9b[m Create a b double folder Upload b double images which includes 150 train and 30 val Upload b double train which includes 150 labels and val 30 labels
+[33m9c8c37098[m Merge pull request #617 from Chameleon-company/KaimonDeBruijne
+[33mc2dee5ec5[m Merge pull request #650 from Chameleon-company/Samiha
+[33md02a85795[m Merge pull request #648 from Chameleon-company/Dinuk_T2
+[33m14e517144[m Merge pull request #693 from Chameleon-company/harshdwivedi
+[33me140e5f1d[m Created using Colab
+[33me97e81ac0[m Merge pull request #679 from Chameleon-company/Akintomiwa
+[33meaa156928[m moved last trimester use case to ready to publish
+[33mf2e585c8e[m Merge branch 'master' into Akintomiwa
+[33m91b0a8683[m[33m ([m[1;31morigin/chaya[m[33m)[m SignUp
+[33m7af6bd9d8[m Merge pull request #711 from Chameleon-company/Samiha-Haque-patch-1
+[33m082059a74[m SignUp
+[33m54201c1f1[m Create placeholder.txt
+[33m95f2792e0[m Rename T2 2024 to random
+[33m5d863c412[m SignUp
+[33mc8b41f444[m SignUp
+[33mf4e78b509[m Merge pull request #709 from Chameleon-company/samiha_cleaning
+[33md0625f719[m Merge pull request #630 from Chameleon-company/SamarthShah
+[33m8e1de3f3c[m Add files via upload
+[33m2f6798b93[m Merge pull request #672 from Chameleon-company/Wireframes-Licensing-and-Privacy-policy
+[33mce8977ddd[m Merge pull request #684 from md0311/MOP_WD_Mihir_Dobariya#PR1
+[33m09431ed8c[m Merge pull request #701 from Akshit-Kawa/AkshitKawa
+[33m47e516774[m Merge pull request #703 from Chameleon-company/SurajKuwar-patch-1
+[33m25dc97977[m Rename usecase_TEMPLATE (3).ipynb to Influence of Employment on Price of Houses
+[33m1d797dc74[m Add files via upload
+[33mef3097581[m uploaded all files for 4 axle vehicles
+[33m06028a0b7[m Create  T2 2024 folder
+[33m7b3610085[m moved last trimester usecase to ready to publish
+[33m09345c963[m Update notebook name. Add X and Y axis labels to the histograms.
+[33m0b4a004d4[m Merge branch 'master' into Akintomiwa
+[33mb51f92f36[m moved last trimester usecase to ready to publish
+[33m5adf75dde[m Merge pull request #677 from Chameleon-company/Uvini1
+[33m798e5190c[m Merge pull request #626 from Chameleon-company/Bao_Ngo
+[33me91048e69[m Merge pull request #655 from Chameleon-company/trostov2
+[33ma625ffbc1[m Merge pull request #654 from Chameleon-company/trostov
+[33md57038005[m Merge pull request #705 from Chameleon-company/nance
+[33mb73de6140[m Merge branch 'clickclackety'
+[33mdd963822d[m Removed print of coords as it raised github flag
+[33m2fdc3b081[m Merge branch 'clickclackety'
+[33m9498e20f7[m Script to find user location, destination, routing, and mapping generation
+[33m66d6a4dab[m[33m ([m[1;31morigin/nance[m[33m)[m Add files via upload
+[33ma42ebf9f2[m predictions Analysis  and graph.png
+[33mc3a72df4e[m location with increase number of smoking.png
+[33md59f5c5a1[m location with decrease number of smoking.png
+[33mb51d6e03e[m move Health Behavior analysis and prediction.py to artificial-intelligence/Health Behaviour/Health Behavior analysis and prediction.py
+[33m13b40fd02[m Merge pull request #694 from Chameleon-company/tolulope
+[33m5e37113d8[m Data Augmentation Tutorial
+[33m458b83cec[m[33m ([m[1;31morigin/SurajKuwar-patch-1[m[33m)[m Add files via upload
+[33m0daa0ddca[m Merge branch 'master' into Akintomiwa
+[33m22707c0fb[m review amendment
+[33m3a08da436[m Merge pull request #695 from Chameleon-company/Saiteja
+[33md34200a53[m Merge pull request #696 from Chameleon-company/WD_Design_Tyler-#PR1
+[33m1b2dbe6f6[m Merge pull request #697 from AhmadRx03/master
+[33me81bd4a84[m Merge pull request #699 from rajatgupta1999/RajatGupta
+[33m0b3689886[m Adding SingUp Wireframe
+[33medc392986[m Merge pull request #682 from Chameleon-company/jnaneshwari
+[33mdd2ca3d01[m Adding Login Wireframe
+[33m3440251e0[m Analysis
+[33m28644a79e[m Merge pull request #657 from Chameleon-company/naga_nikhil_woopalanchi
+[33m2e539fe17[m Delete Route Planner (1).ipynb
+[33md752afde7[m updated markdowns and visualization
+[33m1450fc524[m Data Set load
+[33m1db8fece6[m Contact Us Page - Wireframe
+[33m94da79c1c[m About Us - Wireframe
+[33m33dda0808[m Merge branch 'Chameleon-company:master' into master
+[33m1f309e0eb[m Merge branch 'Chathumini_t2' of https://github.com/Chameleon-company/MOP-Code into Chathumini_t2
+[33m1e2b0e367[m Delete unnesassary files
+[33m09e29b47d[m updated markdowns and code
+[33mbb4990d37[m[33m ([m[1;31morigin/WD_Design_Tyler-#PR1[m[33m)[m Add files via upload
+[33mf38dabf6e[m updated markdowns
+[33m2a6eec5ea[m create test file
+[33m2a8136fb1[m[33m ([m[1;31morigin/Saiteja[m[33m)[m WD_Design_Saiteja #PR1
+[33m439d781a5[m Add files via upload
+[33m1628b1b2d[m Delete Playground/Melbourne House Market Analysis/Melbourne House Market Analysis & Forecasting.ipynb
+[33mfe636c9b6[m Add files via upload
+[33md1554d98a[m Delete Playground/Melbourne House Market Analysis/Melbourne House Market Analysis & Forecasting.ipynb
+[33m90ad52c19[m Add files via upload
+[33m1189f1344[m Delete exploring business establishment in the city of melbourne by ANZSIC4 classification and CLUE small area.ipynb
+[33m84fa7eada[m report on model and evaluation
+[33me4517d02a[m Sample predicted result to test model
+[33ma0ccb8990[m Analysis and prediction code
+[33m76665bbae[m Cleaned and preprocessed dataset
+[33m0d670fd2c[m Merge pull request #634 from Chameleon-company/sabih
+[33m77bf251b0[m Update Business establishments  (land use) and jobs.ipynb
+[33m4a684ee73[m Update Business establishments  (land use) and jobs.ipynb
+[33m750714bba[m WD_Design_jiaqi_li_home page dark mode
+[33me0af9518a[m Merge pull request #660 from Chameleon-company/VaishaliT
+[33mf397d3432[m Create Business establishments  (land use) and jobs.ipynb
+[33m18b4de622[m Tree Axle Articulating, index 15
+[33ma42774248[m Merge pull request #636 from Chameleon-company/chathu
+[33mf5de1074b[m All train and val images and labels for the Three Axle Articulating vehicle category
+[33m14690b7ad[m Merge pull request #643 from Chameleon-company/Katrine
+[33m57a2117f0[m Uploading training images from 003 to 047
+[33ma661d8c2c[m Create val.txt
+[33md3680b701[m Create train.txt
+[33mc003354fa[m Add files via upload
+[33m6feffcb3d[m Delete sample.txt
+[33m1e2fbbde8[m Merge pull request #646 from Chameleon-company/aishwarya_m
+[33m3fda190ae[m Create threeaxart
+[33ma7a1b1c18[m Merge pull request #685 from Chameleon-company/MOP_WD_Adrian_#PR1
+[33m03a6325af[m[33m ([m[1;31morigin/nipun[m[33m)[m Add initial incomplete usecase schema and add the api to get usecase ststs
+[33m8210f4a58[m[33m ([m[1;31morigin/MOP_WD_Adrian_#PR1[m[33m)[m Connected the application to MongoDb
+[33m9a2169c24[m Changed the design of about page as per figma
+[33m95efaebfe[m Add files via upload
+[33m6dd429045[m Create sample.txt
+[33mb411ea317[m Delete Jnaneshwari directory
+[33md0abc6717[m Create sample.txt
+[33m335b871bb[m Delete Playground/sgulluoglu/test.txt
+[33m3202214e1[m Delete Playground/sgulluoglu/usecase_TEMPLATE.ipynb
+[33m4dfecdabb[m Update exploring business establishment in the city of melbourne by ANZSIC4 classification and CLUE small area.ipynb
+[33m8c2a02dbb[m Update parking_slot_occupancy_detection.ipynb
+[33mceca22e4b[m Merge pull request #651 from Chameleon-company/Liny
+[33m269e277e3[m Delete sgulluoglu directory
+[33mf8e4ebed0[m use case file name changed
+[33m630dde3ad[m cleaning up
+[33m4dc4f09a8[m cleaning up for pull request
+[33ma44df6156[m normalizing----
+[33m2959a91d6[m normalizing
+[33m9375cafc0[m creating the target label
+[33mb76ea1b88[m API integration
+[33m52472de37[m Fixing the Pull Request Issue
+[33mac270b3ff[m Merge pull request #676 from Chameleon-company/balexiadis
+[33m978fc4466[m Merge pull request #647 from Chameleon-company/Sachitha_KT2
+[33mb27b52162[m Two Axle Trucks images and labels
+[33m9c3d0d55e[m reuploading
+[33mbb9cb99c7[m Two Axle trucks images and labels
+[33m32ba2fb28[m Create twoaxletruck.txt
+[33m6dbe1d640[m removed 4 axle trucks
+[33m150476919[m Merge pull request #631 from Chameleon-company/taehwan
+[33me14d30890[m Merge pull request #658 from Chameleon-company/Venuka_t2
+[33mfad3eec94[m[33m ([m[1;31morigin/Wireframes-Licensing-and-Privacy-policy[m[33m)[m Add files via upload
+[33m4475a8187[m Merge pull request #671 from Chameleon-company/Hoang_WD
+[33m42ce2de43[m[33m ([m[1;31morigin/Hoang_WD[m[33m)[m added docker image building
+[33ma571e6a2b[m Add files via upload
+[33m7c5bf102b[m Merge pull request #669 from Chameleon-company/Hoang_WD
+[33m74aa5c2f0[m added code quality stage
+[33mc7d1224f2[m modified some changes
+[33m0ff1408ab[m Merge pull request #644 from Chameleon-company/Manasa
+[33m84cf2781f[m modified eslint rules and fixed some syntax bugs
+[33mc06ec07d4[m Added Train and Val set images
+[33m1a41979b6[m Merge pull request #665 from Chameleon-company/thamashag_new
+[33m263fc4c49[m added jenkinsfile
+[33m91725e8a8[m Merge pull request #663 from Bruce-Li7/master
+[33m04b5cf574[m Web Design/jiaqi li/wireframe for home, forget pwd and OTP pages.
+[33m8c6d7b0a4[m Merge pull request #649 from Chameleon-company/abhishek-chiluka99-patch-1
+[33m7973aaad7[m Mapping executable
+[33m1f2677e07[m added folder and usecase
+[33m8355442ce[m updated the notebook and finished with data wrangling
+[33m4191e325a[m feature engineering
+[33m8c24a8875[m Analysis and Visualization Part 1
+[33m73cae1087[m Working on exploring the dataset
+[33mb0ebfa21b[m Add files via upload
+[33m70cc765cc[m Delete Playground/trostov/Social Indicator Changes - week 5.ipynb
+[33m2e56f0608[m Add files via upload
+[33mcc35e8b57[m Create placeholder.txt
+[33mcd00f2611[m Delete Playground/trostov/Soil Analysis - week 4.ipynb
+[33md9298848c[m Delete Playground/trostov/Social Indicator Changes - week 4.ipynb
+[33mfd9a01f7f[m Add files via upload
+[33mb344ffd51[m Create Exploring Accessibility for Disabled People.ipynb
+[33m3ddd36798[m map with closest parking spots to suggested places of interest
+[33m99af6fb24[m processed .csv file created from dataset
+[33m89a4fb248[m Update usecase_TEMPLATE.ipynb
+[33mad6d6898b[m[33m ([m[1;31morigin/abhishek-chiluka99-patch-1[m[33m)[m Create template.docs
+[33m8fc295fee[m Merge pull request #622 from Chameleon-company/Tharaka_18
+[33m18b4f81e5[m Add files via upload
+[33m1c82fb0f3[m Sprint 1 end
+[33m34526fd87[m Merge pull request #641 from Chameleon-company/Awaze-Mohommed
+[33m1ce098c6d[m Add files via upload
+[33mdd978b71b[m Create sample.txt
+[33m04da1a850[m Moving the API Key instruction back to the documentation folder
+[33m73609c094[m Add files via upload
+[33ma568f7e14[m Analysis and advance preprocessing
+[33m949295b26[m Remove Tutorial
+[33m5e138ac2b[m Created using Colab
+[33m8fc89c51b[m Create Support Service and Wellbeing.ipynb
+[33m2c3ffdbe3[m Prepare the notbook file for the pull request.
+[33mceb0b69cc[m create Pedestrian Foot Traffic and Footpath Utilization
+[33m6ee312141[m Add a Senario
+[33m18f1c5bb8[m Merge pull request #627 from Chameleon-company/SaiPriyamvada
+[33m4a40e71c9[m Add files via upload
+[33mef1ccabc9[m Merge pull request #638 from Chameleon-company/abhishek_DandL_Frontend
+[33m7e10489cd[m[33m ([m[1;31morigin/abhishek_DandL_Frontend[m[33m)[m Completed few Dark and Light Theme pages
+[33mfefd5c9ca[m Demo upload and merge
+[33m3fa152b37[m Add files via upload
+[33mcb86c5bee[m adding file
+[33m5a417d641[m Merge pull request #621 from Chameleon-company/sahancj
+[33m41d5d71a0[m Delete placeholder.txt
+[33m2434d501c[m Importing Data sets
+[33m298d870b1[m Adding .ipynb file
+[33m395f6d1ef[m Importing Libraries
+[33mc7e00a241[m Create usecase_TEMPLATE.ipynb
+[33m8898e5113[m Delete test.txt
+[33mcae260220[m Create text.txt
+[33m19ff0f25c[m Add files via upload
+[33m2c74e32a9[m Delete Playground/chathu/Assessing_Parking_Availability_Around _Restaurants.ipynb
+[33m8ddd542e1[m Delete Playground/chathu/Assessing_Parking_Availability_Around _Restaurants
+[33m085ab020b[m Create Assessing_Parking_Availability_Around _Restaurants
+[33me7ab786b8[m Rename usecase_TEMPLATE.ipynb to Assessing_Parking_Availability_Around _Restaurants.ipynb
+[33m7aec727ad[m changes made in usecase
+[33me55467e06[m Merge branch 'chathu' of https://github.com/Chameleon-company/MOP-Code into chathu
+[33m5aa91085c[m changes in use case
+[33m1fd7e416d[m Delete Playground/chathu/Assessing_Parking_Availability_Around _Restaurants.ipynb
+[33m4bba9aafc[m changes in use case
+[33mfd55e022d[m Upload Double Road Train images(Train) 150 12 18 31 39 44 and 77
+[33m05a5ab9a4[m Upload MAD val images 10 and 30 Upload MAD train imags 24 110 and 118
+[33m2e5d52578[m Upload MAD labels and val 26 image
+[33m4b3854ba7[m Upload Double Road Train Labels
+[33m1ed046d64[m replaced the comments with markdown
+[33m2d0cb6339[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code
+[33mb1adca7ed[m replaced the comments with markdown
+[33me958d7ead[m Merge pull request #604 from Chameleon-company/francis
+[33m91c55d6bd[m Data Science - Tram and Bus network
+[33m926f6e067[m sprint_1_review
+[33ma1d554d00[m Merge pull request #625 from Chameleon-company/Hoang_WEBDEV
+[33m31c88f457[m Merge branch 'taehwan' of https://github.com/Chameleon-company/MOP-Code into taehwan
+[33md8326b5da[m data loading and preprocessing
+[33m5b96c535c[m Delete Tourism_Impact_Analysis.ipynb
+[33mb00280b53[m initial commit
+[33m94021ee10[m Update Tourism Impact Analysis notebook
+[33m6d065beeb[m Starting Use Case & Preprocessing Part 1
+[33mf3918cca7[m update
+[33mafe030daa[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code
+[33mf34be3e85[m preprocessing, tfidfvectorizer, cosine similarity, haversine distance, displayed closest parking spots to filtered places of interest
+[33md3998d108[m Created using Colab
+[33me775fce9c[m updating my analysis
+[33m82d70cebb[m Create Three_Axle_Articulated
+[33ma8ea80f89[m Add files via upload
+[33mf1f727fa1[m sprint -1 review
+[33mf1fe8fb4f[m Fixed Browser issues + licensing page
+[33m772e94393[m validation set images and labels uploaded
+[33m2666bdf8d[m Train set images and labels uploaded
+[33me8453e5bf[m deleted images and labels will reupload
+[33ma11b65fc1[m Update usecase_TEMPLATE.ipynb
+[33m836369a7f[m Update usecase_TEMPLATE.ipynb
+[33m03ea2dccf[m Code Updated5/08/2024
+[33mfac757ff9[m analysis
+[33m268482ce0[m Upload the Medium articulated vehicle and one dog trailer(M.A.D) images
+[33m60c8c6e9a[m data cleaning
+[33mc1dac03f4[m data cleaning
+[33m37041beee[m[33m ([m[1;31morigin/alex[m[33m)[m Added initial code for the chatbot
+[33m3a60cd1f8[m Upload Double Road Train images
+[33m291a343bc[m Adding folder and text file to chatbot again
+[33maa5d9acea[m Adding folder and text file to chatbot
+[33me12842395[m Delete config.py
+[33mf6a029325[m Create .gitignore
+[33mbf8978a59[m Add files via upload
+[33m1159a0ec8[m Notebook updated, add use case propsal and started upto data cleaning
+[33mcf8990764[m test
+[33m908e08c37[m Created using Colab
+[33m24f5270fa[m Initiate data preprocessing, impute missing values in total_jobs_in_block
+[33m8063bc796[m Create Use Case Objective
+[33m5377d77a6[m 1 upload Double Rode Train pictures
+[33me938a0f45[m abc
+[33m72f86ab07[m Create test.txt
+[33m2544c3e3d[m Restructure cameleon-project.ipynb file
+[33m0cb1072f0[m Add config_template.py file and update .gitignore
+[33mea1d8d268[m Create Read-Test
+[33m92bb7ac49[m added labels to train set images
+[33m773de1d5e[m Vehicle Composition Analysis with code and Power BI
+[33m6c0fbd6ba[m Add files via upload
+[33m48623a8b1[m USE CASE NAME WAS EDITED
+[33mf74d33142[m 2.0 Data Cleaning and Pre processing Data
+[33m2c1e5204a[m changed the use case name
+[33m643c493fe[m copied the template
+[33m9995101bc[m Create test.txt
+[33m1c4781118[m Add files via upload
+[33me40d815fe[m update
+[33mfa87bad69[m Updating use case
+[33md1f4b96aa[m Updating
+[33me202601c7[m Create placeholder.txt
+[33mc4c7cb486[m changed datasets and timeframe
+[33mcccf5de42[m changes made in usecase
+[33mebda913ff[m Merge branch 'chathu' of https://github.com/Chameleon-company/MOP-Code into chathu
+[33m901962cf7[m modified use case
+[33m3fe46679d[m Add files via upload
+[33m255fd735d[m Added Images for Train and Validation Set
+[33mf3eb88bd8[m Update use case template
+[33mbb0426650[m Delete Tourism_Impact_Analysis.ipynb
+[33mff876b4d0[m Use case template update
+[33m927664b0e[m data integration
+[33mdb86ced61[m Basic preproccess (Handle missing values) and visualize data for the second dataset (Argyle Square Air Quality)
+[33mf19bec5b9[m Data Loading and Examination
+[33md6bc6b6ad[m Merge branch 'master' into Alireza
+[33m3d0d95276[m Basic preproccess (Handle missing values) and visualize data for the first dataset (microclimate-sensors-data)
+[33m15e43dc78[m Create placeholder.txt
+[33m64f6bd23d[m Merge pull request #615 from Chameleon-company/samiha_cleaning
+[33mc8163e595[m Updating Use Case Template
+[33m0bead30d6[m A guide to MS Planner for all members of MOP
+[33ma43d237b2[m data cleaning and tokeninzing
+[33m9b8475c68[m Merge pull request #614 from Chameleon-company/Sachitha_KT2_Doc
+[33m62b9c1513[m docs: Add tutorial on how to create and manage planner cards
+[33m487cd3ff5[m Delete docs
+[33mc10455b42[m upload new folder
+[33mbc6c85ed3[m upload text
+[33ma637dcdb4[m upload image
+[33m12fcbb9cb[m upload image
+[33m25a4ea111[m Import Data Using API (Data Set 2)
+[33mdf1c932af[m docs: Add tutorial on how to create and manage planner cards
+[33m242e40d4d[m docs: Delete
+[33m2e31f3169[m docs: Add tutorial on how to create and manage planner cards
+[33m76296bc02[m Import Data Using API
+[33m5d9904655[m Write the use case proposal
+[33m62b9246cd[m Use Case Template
+[33m0926ef5c4[m Create Test.txt
+[33m5c23a1e47[m Template updated
+[33md2bd3ffdb[m adding light_van data
+[33me876d88d1[m generated code for preprocessing the traffic-count-vehicle-classification dataset
+[33m72c861c2a[m archiving trello documentation
+[33m222da1c88[m add motorcycle data
+[33mb5ad1a1d3[m add bicycle folder to artificial-intelligence
+[33mda79c2205[m Update exploring business establishment in the city of melbourne by ANZSIC4 classification and CLUE small area.ipynb
+[33mdbd37cf41[m Delete_init_
+[33m64e6b4b8d[m uploaded dataset
+[33m100312e8f[m loading of  datasets
+[33m9c2531e2a[m Create placeholder.txt
+[33m18a63d901[m Create placeholder.txt
+[33mbb54ee982[m Add files via upload
+[33m0cb82d96d[m Create test
+[33mcd1527ff6[m Move use case from Update Needed folder to Playground folder.
+[33ma046819e0[m Created branch and made folder containing .ipynb file
+[33ma69fed901[m Cleaned and sorted data of the 4 topics
+[33mf95d7c157[m Rename usecase_TEMPLATE (2).ipynb to Urban_Growth_and_Transit_Planning_for_Melbourne.ipynb
+[33m40853e132[m Created using Colab
+[33m0b374d997[m Usecase
+[33mf8f2b68c6[m adding file
+[33m2be3fab33[m[33m ([m[1;31morigin/Vaishali[m[33m)[m Merge pull request #607 from Chameleon-company/samiha_cleaning
+[33me52a4b8f9[m usecase update
+[33m680fef39a[m Identify potential area for new cafe in Melbourne by using residential data - Urban Investor use case work needs to be combined
+[33m3b34efd48[m Identify potential area for new cafe in Melbourne by using residential data - Urban Investor usecase work needs to be combined and published into READY TO PUBLISH
+[33m94c8f57c8[m Create Public Transport Accessibility.txt
+[33m287e6942f[m branch cleaning
+[33m1305f8ae8[m new folder
+[33m14dc5f770[m Create last trimester
+[33m0967fcf3f[m Create placeholder.txt
+[33m7b6d54e56[m Update Get_dataset to download the whole dataset as a csv and return a pandas dataframe
+[33m4f13f3b93[m Create placeholder.txt
+[33m51a116d0d[m Add notebook to fetch datasets using api
+[33mbf034bb03[m Merge pull request #606 from Chameleon-company/lucaskocon
+[33m67664acac[m Delete artificial-intelligence/chatbot/chatbot.txt
+[33m3e5627a3e[m Delete artificial-intelligence/Vehicle Classification/vehicleclassification.txt
+[33mc6f1f34e2[m Delete artificial-intelligence/Traffic Analysis/trafficanalysis.txt
+[33m66d707d1f[m Delete artificial-intelligence/Health Behaviour/healthbehaviour.txt
+[33mb34da705e[m Add files via upload
+[33m8b8d91dc7[m Add files via upload
+[33m1825dbe46[m Add files via upload
+[33m3780e028f[m Add files via upload
+[33m089a0203f[m Create trafficanalysis.txt
+[33mc6fe7d112[m Create healthbehaviour.txt
+[33m7f90c49ae[m Create vehicleclassification.txt
+[33mdbfeec9fa[m Merge pull request #605 from Chameleon-company/lucaskocon-1
+[33m0288b1761[m Create chatbot.txt
+[33m5f6f4aa1e[m last trimester file
+[33m4e447fa04[m Delete heatmap.html
+[33m8f268b189[m Create test.txt
+[33m33bd3454e[m Create placeholder.txt
+[33ma306b0081[m Initial Commit
+[33m65b03fa65[m Create placeholder.txt
+[33mb488b8dee[m test file created in jupyter notebook
+[33m7b5595ca8[m Adding a New Use Case to MS Planner
+[33m0f29f717f[m Delete Playground/Tharaka
+[33mce98382a7[m Create Tharaka
+[33m5dd404979[m Create placeholder.txt
+[33m7b8ac1054[m Tutorial to Adding New Use Cases to MS Planner
+[33m8c0abfa6a[m Merge pull request #601 from Chameleon-company/samiha_cleaning
+[33mfe16d9560[m Merge pull request #602 from Chameleon-company/Samiha-Haque-patch-1
+[33m85ecfa694[m T2 2024 Onboarding checklist
+[33m4ddef7983[m From T1 2024 to Archived
+[33m0a61fcb66[m Add files via upload
+[33m52b6c9ab4[m Delete Playground/yash directory
+[33m875b91ead[m Delete Playground/venuka/Tree History.ipynb
+[33m2bfaadaee[m Delete Playground/venuka/Tree History.html
+[33m69e7834b8[m Delete Playground/venuka/Guide Document to Use Folium in Python for Interactive Mapping.docx
+[33mcccb471e5[m Delete Playground/trostov directory
+[33m359d29927[m Delete Playground/TharushaCao directory
+[33mfd5d35e40[m Delete Playground/RuofengQIU-T3/Ideal_Green_Roof_Locations.ipynb
+[33m522f44b71[m Delete Playground/RuofengQIU-T3/Ideal_Green_Roof_Locations.html
+[33m00470ba83[m Delete Playground/RuofengQIU-T3/Ideal_Green_Roof_Locations directory
+[33m0957d92e9[m Delete Playground/Rhuth-Kharade/Small Area Population Growth & Active Transportation directory
+[33m30ad39abf[m Delete Playground/Manasa directory
+[33mfbf048c0f[m Delete Playground/Harley directory
+[33m78690ee49[m Delete Playground/Francis directory
+[33m42f4f5be9[m Delete Playground/Daljeet directory
+[33mdff117394[m Delete Playground/Bao-Ngo directory
+[33m95627e755[m Update needed, follow Planner card
+[33m3f9d8904f[m Merge pull request #597 from Chameleon-company/Francis
+[33m4bfe36e03[m created init py file
+[33m285f9e7d0[m Create a.txt
+[33m8d47928ef[m Create test.txt
+[33mb7c759f6a[m Merge branch 'master' into Akintomiwa
+[33m70c04e960[m my file added back to publish
+[33m89cbf3d69[m delete a my file from publish
+[33m08b8f5db2[m Delete Playground/molliefernandez directory
+[33m9e0510dc8[m Merge pull request #587 from AliColli/master
+[33mf89115a51[m Merge pull request #560 from Chameleon-company/WD_FRONTEND_THAMASHA-#PR2
+[33ma85e2dfcd[m Merge pull request #591 from Chameleon-company/WD_front-end_Suraj#PR4
+[33mb1b6f80f0[m Merge pull request #530 from Chameleon-company/venuka
+[33mf661aba3d[m Merge pull request #599 from Chameleon-company/vaishali
+[33mc27f3de39[m deleted playground branch
+[33m955cfad50[m Merge branch 'master' into Akintomiwa
+[33mb0f7264c7[m Added html files and uploaded usecase to ready to publish
+[33m2e5c5b68a[m Merge pull request #563 from Chameleon-company/Katrine
+[33ma10897cc2[m Merge pull request #517 from Chameleon-company/Rhuth-TPB
+[33mbb1022cac[m Merge pull request #596 from Chameleon-company/Pnishadini-patch-3
+[33m8d8cbf727[m re-pushing due to error on github
+[33m5ebc74b4c[m deleted the html file since it corrupted my usecase
+[33mbc400ab05[m Merge pull request #577 from Chameleon-company/RuofengQIU-2023T3
+[33m7f713409a[m html file upload
+[33m4a7981477[m Melbourne's Biodiversity final
+[33m71c2f6e48[m Adding files to Ready To Publish Folder
+[33m4486a25bb[m Merge pull request #593 from Chameleon-company/Harley
+[33mc05070029[m Files added to folder
+[33m2ba795555[m Merge pull request #595 from Chameleon-company/Pnishadini-patch-1-1
+[33m0c0a9877f[m Create delete.txt
+[33md0e9e5570[m Merge pull request #575 from Chameleon-company/Bao-Ngo
+[33m71e092cd8[m Move Smart Bin Waste Collection AI to Ready to Publish
+[33m6490dfd84[m Merge branch 'master' of https://github.com/AliColli/MOP-Code
+[33md7a1c9f87[m spelling update
+[33maaac1e859[m Merge pull request #556 from Chameleon-company/Abanob
+[33me1d106677[m Merge branch 'master' into RuofengQIU-2023T3
+[33m6c6c54525[m delete file in my play ground
+[33m68f5872a6[m Merge pull request #583 from Chameleon-company/te_claire_final
+[33md11990214[m fix the css path
+[33me4c4c6949[m final update
+[33m94c00553a[m Merge pull request #574 from Chameleon-company/Raman
+[33mded417c05[m Delete Playground/Ramandeep directory
+[33m39d1fb9c5[m Delete datascience/usecases/READY TO PUBLISH/T1 2024/Water Flow Rates and Trees/Readme
+[33meef717202[m USECASE COMPLETED
+[33mb93ee65f8[m Create Readme
+[33m50256d452[m Merge pull request #590 from Chameleon-company/yashdawaree-patch-3
+[33m3c653757f[m Merge pull request #586 from Chameleon-company/Manasa-n1-patch-1
+[33m730d8be5c[m Merge pull request #536 from Chameleon-company/jamie
+[33m027e70b24[m update html file
+[33mba0cae127[m otp verification
+[33m81e9811b7[m update the login page
+[33mc3086d9ee[m Update page.tsx
+[33mb40e81861[m update the login page
+[33ma6dc0db4f[m Usecase: House Prices, Landmarks and Places of Interests (Update Needed)
+[33mbffdd3abd[m Fix the login page
+[33m6c236b9a8[m Create et --hard eaf8770f
+[33m3e95e359b[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into Abanob
+[33m521a4bf8c[m Removing files from Playground
+[33m9ee316e50[m Merge pull request #527 from Chameleon-company/LiveabilityAnalysis_samiha
+[33m7c1696069[m Move to READY TO PUBLISH folder
+[33m27592f529[m Merge branch 'master' into venuka
+[33mc4796f333[m Updating New Files
+[33m9158925a9[m Merge pull request #564 from Chameleon-company/kaseywu2
+[33m0d990d6cc[m Merge pull request #589 from Chameleon-company/PDALJEET-patch-1
+[33m69964a334[m Adding html file
+[33m61cb317aa[m Delete datascience/usecases/READY TO PUBLISH/T1 2024/Impact_of_Employment_housingprice/Impact_of_Employment_housingprice.html
+[33m618850d05[m Adding html file
+[33mb9ed19f86[m Delete datascience/usecases/READY TO PUBLISH/T1 2024/Impact_of_Employment_housingprice/Impact_of_Employment_housingprice.html
+[33m174700bef[m Adding html file
+[33m785ae8a43[m Delete datascience/usecases/READY TO PUBLISH/T1 2024/Impact_of_Employment_housingprice/Impact_of_Employment_housingprice.html
+[33m8c2ee4f09[m Merge pull request #559 from Chameleon-company/Dinuk-Nadishan
+[33mae2863f9f[m Adding Technical document
+[33meca923b80[m Rename Impact_of_Employment_housingprice (5).ipynb to Impact_of_Employment_housingprice.ipynb
+[33mfc19a4f1a[m Rename Impact_of_Employment_housingprice (1).html to Impact_of_Employment_housingprice.html
+[33mcf5ad7d85[m Delete datascience/usecases/READY TO PUBLISH/T1 2024/Impact_of_Employment_housingprice/How to setup google colab to GitHub through gitbash.docx
+[33m70adaa14d[m Add files to ready to publish folder
+[33m7df03d55f[m Deleting Playground/Katrine
+[33meaccab0bd[m Updated Reference
+[33m271716bad[m Merge pull request #567 from Chameleon-company/pema
+[33m762142e24[m Merge pull request #541 from abhishek-chiluka99/abhishek_repsonsive_menu
+[33md0e70b875[m Merge pull request #573 from adrianweerasinghe97/WD_Webdev_Adrian_Weerasinghe-#PR4--FIX-
+[33mb4f184408[m Update the header padding
+[33mcca8cb152[m Merge pull request #557 from Chameleon-company/HoangDuyVu-webdev-wcag
+[33m8bd4d0222[m Merge pull request #562 from Chameleon-company/tom
+[33m83f2b2bca[m files Added to ready to publish
+[33m782ca6317[m Merge branch 'master' into Akintomiwa
+[33m42aeab6b3[m Jason file Added
+[33m6f3bcb5f1[m added to READY TO PUBLISH
+[33m61803ebf3[m Merge branch 'Rhuth-TPB' of https://github.com/Chameleon-company/MOP-Code into Rhuth-TPB
+[33m97fb8370e[m usecase folder created
+[33meaf8770ff[m Fixed the CSS and Page.tsx
+[33m652e81614[m Merge branch 'Chameleon-company:master' into master
+[33m82e004aa0[m Delete folder with branch
+[33mba40599f2[m Merge pull request #500 from Chameleon-company/TharushaCao&AkintomiwaJames
+[33mdead277a1[m Merge pull request #569 from Chameleon-company/trostov4
+[33m03d163133[m Merge pull request #584 from Chameleon-company/Smart_bin_and_disopsal_optimisation(delete_file)
+[33mf6f543eb1[m Merge pull request #570 from AliColli/master
+[33mde6153555[m Adding files to ready to publish folder
+[33mef84ef9bb[m Deleted Playground Folder
+[33mb76199d5f[m Move files to 'Update Needed' Folder
+[33ma79f04347[m Merge branch 'master' into Dinuk-Nadishan
+[33m2b96c38b3[m In folder ( Function List)
+[33m8ec51c7aa[m Merge pull request #496 from Chameleon-company/Sachitha-K
+[33m731450d9f[m Deleted from Playground
+[33m1286588b0[m Moved to Ready to publish folder
+[33m05dfbc5c2[m Merge branch 'master' into Sachitha-K
+[33m73f7dcbd3[m Merge branch 'master' into TharushaCao&AkintomiwaJames
+[33m9d65c17cc[m Moved Function List
+[33m68f7ee073[m Merge branch 'master' into Katrine
+[33m868272009[m Delete datascience/usecases/UPDATE NEEDED/Smart Bin and Disposal Optimisation directory
+[33mb7996d27b[m Update Smart_Bin_Waste_Collection_AI_Application.ipynb
+[33ma64c3b856[m Merge pull request #543 from Chameleon-company/Smart_Bin_and_Disposal_Optimisation
+[33m19b715f41[m update model outputs
+[33mafd27bb6f[m Completed use case foot_traffic_analysis
+[33m3edc5ba3d[m Completed entertainment_location_projections
+[33m5e92819ce[m Delete datascience/usecases/READY TO PUBLISH/T1 2024/Entertainment_locations directory
+[33m87b88d49b[m Completed Use Case: eco_metrix
+[33m7821d6ac1[m Completed Use Case: Entertainment_locations
+[33m560524da1[m Delete Playground/te_claire directory
+[33m818a6c82f[m Completed guide for analytics and ML Tools
+[33m4ec79394e[m WD_Frontend_PL
+[33mb454a35ec[m Merge branch 'master' into Akintomiwa
+[33ma43e454db[m added html version
+[33mbdab1c08a[m Delete datascience/usecases/READY TO PUBLISH/T1 2024/Pedestrian Prediction and Analysis/testfile.txt
+[33m81a935ca8[m Merge branch 'master' into Rhuth-TPB
+[33mc7feb3ec9[m Updated functions
+[33m6e8326aa2[m Delete text.txt
+[33m798a444af[m Merge pull request #542 from Chameleon-company/samiha_haque
+[33m9b50a4701[m Update spelling
+[33m124245ab4[m Merge branch 'master' of https://github.com/AliColli/MOP-Code
+[33ma6a27ae1d[m Delete green walls use case from update needed folder
+[33mab6d0034a[m renamed
+[33m3ccef90a7[m Create Small Area Population Growth & Active Transportation .html
+[33m70d940d0e[m Delete Small Area Population Growth & Active Transportation.html
+[33m6d33301a2[m Create Small Area Population Growth & Active Transportation.html
+[33mbdaea29b8[m Delete Small Area Population Growth & Active Transportation.html
+[33maea229e99[m Update Small Area Population Growth & Active Transportation .ipynb
+[33m3a483075a[m Added html and json file
+[33m174952dc1[m Made a small change in the reference list
+[33md8ca1dbd7[m FINAL COMMIT
+[33m9c8ead76a[m FINAL COMMIT
+[33m91455ac44[m new API
+[33mf5af80ea6[m Added to TOC
+[33ma78241c18[m juniors guides
+[33m5e495656b[m final use cases
+[33m8e9288d32[m Resolve merge conflicts with the new origin code
+[33mea61f2f94[m Resolve merge conflicts with the new origin code
+[33mb99516589[m Harvesine distance added
+[33m2ec445f6b[m Merge remote-tracking branch 'upstream/master' into abhishek_repsonsive_menu
+[33mdfb0b39d4[m SVm function
+[33m98bceb47c[m UPDATE CODE
+[33m8c9458a4e[m Random Forest fuction
+[33m58627c1ea[m Decision Tree Function
+[33m0a848675c[m DATA SCIENCE TEAM - MELBOURNE JOB FORECASTING NEW USECASE - 100%
+[33m228c29e72[m polynomial and logistic regression
+[33ma9bf73efb[m Linear regression Function
+[33m8c8138cda[m Delete Playground/Ramandeep/updated_water_flow_rates_and_trees.ipynb
+[33m34a609030[m USECASE HANDOVER
+[33ma8f8d02fb[m Updated the code for the chatbot. the chatbot will display the link to the faq page
+[33m285138b49[m Merge branch 'master' into RuofengQIU-2023T3
+[33mf57b826d5[m Merge pull request #545 from Chameleon-company/vaishali
+[33m3b760b6a2[m added a conclusion
+[33m5fb9891f6[m Update licensing.css
+[33mdba3dbb9c[m Merge branch 'Chameleon-company:master' into master
+[33mb5c8c9136[m Alison use cases to published folder
+[33mffcd63163[m update documentation
+[33ma6e4e17d8[m Bin Fill Level - html
+[33m9c27d941f[m Bin Fill Level - JSON
+[33m07fa58c56[m Add files via upload
+[33m550007cf9[m Bin Fill Level - update markdown
+[33md8df8550f[m Create testfile.txt
+[33m33596e4d7[m WD_Frontend_PL
+[33mf15c49bfd[m Fix the responsiveness
+[33m656b45751[m WD_Frontend_PL
+[33m8938f0a0b[m WD_Frontend_PL
+[33mf6128f8d2[m update json file
+[33meb1589297[m Merge pull request #554 from Chameleon-company/Tharusha-Cao
+[33m0f9cb63e0[m Update 3 required files
+[33m2ffa73fdc[m small updates
+[33m55c37f7e4[m Smart Bin Waste Collection Repointing
+[33m28b5db197[m Finalizing all documents
+[33m209a6edd1[m WD|Build|multi-language menu
+[33m77ec6d604[m Completed Bird Habitat Analysis
+[33m0fdf7a65c[m Added to ready to publish
+[33mcb3bd8910[m DS - Moving Use Cases into Ready to be Published
+[33mf36b4943b[m Merge pull request #490 from Chameleon-company/tom
+[33m84a9532de[m Merge branch 'master' into WD_FRONTEND_THAMASHA-#PR2
+[33m4edf994ef[m Added navigation testing
+[33m892082ffa[m Rename use Case
+[33md8df6e119[m Sprint 03 End
+[33m7abad45d3[m Model Update
+[33m77e320405[m Green Walls - html
+[33m0101f0cbb[m Green Walls - JSON
+[33m5fa18dfc3[m Pedestrian Accidents and bus stops - html
+[33m866c78831[m Pedestrian Accidents and bus stops - json
+[33mcc31642a7[m Pedestrian Accidents and bus stops - update spelling
+[33mb3c2458df[m Pedestrian Accidents and bus stops - Coreelation analysis
+[33m37cff0ee6[m Pedestrian Accidents and bus stops - Hypothesis testign difference between bus stop and accident to stop distances
+[33m617120e47[m Pedestrian Accidents and bus stops - Bus stops average of distance to accidnets. Merge into dataframe with bus stop distance to other bus stop
+[33m141b5491e[m Pedestrian Accidents and bus stops - Chloroopleth map of pedestrian accident categories closest to each bus stop
+[33mb709663cb[m Pedestrian Accidents and bus stops - Bar graph bus stops with number of accidents cosest to them
+[33m89a1ecf73[m Pedestrian Accidents and bus stops - Distance calculation crash location to bus stop histogram and violin plot
+[33m815d06be0[m Pedestrian Accidents and bus stops - Distance calculation crash location to bus stop
+[33mbebc55585[m Pedestrian Accidents and bus stops - Distance calculation bus stop to bus stop violin plot and histogram
+[33mb41321c21[m Pedestrian Accidents and bus stops - Distance calculatiob bus stop t bus stop
+[33me1c09bcf3[m Pedestrian Accidents and bus stops - Haversine function
+[33m80d5d40c6[m Pedestrian Accidents and bus stops - Map of accidents and bus stops by injury type
+[33m9ec4aef0e[m Pedestrian Accidents and bus stops - Map of accidents and bus stops
+[33md618cd104[m Pedestrian Accidents and bus stops - Crash by type treemap
+[33m1c43f430f[m Pedestrian Accidents and bus stops - Crash by date graph
+[33m346a49083[m Pedestrian Accidents and bus stops - Crash data resample by date for a count
+[33m4d379d524[m Pedestrian Accidents and bus stops - Crash data preprocessing - null values, unique values, datatypes, resample by geographic area
+[33mfb9c837ce[m Pedestrian Accidents and bus stops - Crash data preprocessing - reduce columns, select only pedestrian accidents
+[33m075312e2e[m Pedestrian Accidents and bus stops - Bus data preprocessing - null values, resmaple by geographical area
+[33m442fc60bb[m Pedestrian Accidents and bus stops - Import crash data from vicroads
+[33m5ab1dc3b4[m Pedestrian Accidents and bus stops - Import bus stops dataset
+[33mb54245519[m Pedestrian Accidents and bus stops - summary
+[33meec785c71[m fixed link error
+[33m10effce5e[m added wcag features, translated css, added logo
+[33m7c3b03f3e[m Merge pull request #551 from Chameleon-company/kaseywu2
+[33me9ca34be5[m encoding
+[33m33c98f78b[m WD|FIX| placeholder translation
+[33mef9b1e701[m WD|Build|Multi-language for Contact Page
+[33m13ec00573[m Update the login page
+[33mf125f8d9c[m Merge pull request #552 from Chameleon-company/HoangDuyVu-webdev-footerheader
+[33mf56597710[m Added_PCA reduction
+[33m29f1f4500[m Merge branch 'master' into TharushaCao&AkintomiwaJames
+[33m298daf175[m Pedestrian Accidents and bus stops
+[33ma4421b7e3[m Create text.txt
+[33m16cd7da7e[m added new logos
+[33mcc54e3231[m WD|Build|Add Spanish and Greek version
+[33m49f9676f0[m Merge pull request #540 from Chameleon-company/CarissaWong
+[33mef52f867e[m WD|Build| Chinese version translation
+[33m117f2f01d[m Bus Stops, Pedestrians and Safety - bin fill update variabe names
+[33mba2f9c887[m Merge pull request #546 from Chameleon-company/kaseywu2
+[33mcb05e92a2[m WD|FIX|failed deployment fix
+[33mf59d140d6[m WD|FIX|conflict
+[33maa60e93eb[m WD|FIX|solve conflicts
+[33m0eef2412c[m WD|FIX|solve conflicts
+[33m0727e8999[m Merge pull request #544 from Chameleon-company/kaseywu2
+[33m6dfd5efe8[m Merge branch 'master' into kaseywu2
+[33m2c26957da[m WD|Build|translations
+[33m570a3ced8[m Merge pull request #539 from Chameleon-company/WD_front-end_Suraj#PR3
+[33md672dd9fa[m Merge branch 'master' into WD_front-end_Suraj#PR3
+[33m9652a017f[m final changes to code - fixed
+[33m9515a2461[m WD|FIX|footer
+[33mc3c435dbf[m WD|Fix|Multilanguage function
+[33mb0769c3ce[m WD|Build|Multilanguage Function
+[33m8c990a7d8[m New API - Spot Parking Problems
+[33mad6ec93ad[m Deleted files
+[33m65ce8ba77[m Bus Stops, Pedestrians and Safety - t-test to see if distance values occur randomly
+[33m8677bb184[m (DS) CS Analysis Use Case & Real-time Parking Hotspots API Update - 100%
+[33mb72779511[m Bus Stops, Pedestrians and Safety - buffer analysis to find porximity of accidents to bus stops
+[33m5c2ff0628[m Bus Stops, Pedestrians and Safety - violin plot distance from accidents to bus stops
+[33m66ecd78a7[m moved folder to READY TO PUBLISH folder with 3 files
+[33md9462beda[m moved wrong folder back
+[33m9b05a7671[m moved usecase Waste Analysis file to READY TO PUBLISH
+[33md71c1a281[m included API key in comments
+[33mde5943fba[m completed 100% rewrite of usecase and renamed it Waste_Analysis
+[33m7826bac57[m DS Public Event Planning usecase 100% complete and moved to READY TO PUBLISH folder with 3 files
+[33mc8a3a38f3[m completed usecase 100%
+[33m791b122a7[m completed full rewrite and code of usecase and renamed it waste analysis
+[33m09b1668f3[m Bus Stops, Pedestrians and Safety - histogram of distance to bus stops
+[33m5aa7ea966[m Bus Stops, Pedestrians and Safety - haversine formula and loop to find closest bus stop to each accident
+[33m2b3f1c541[m Bus Stops, Pedestrians and Safety - rename use case
+[33m2d08115af[m Bus Stops, Pedestrians and Safety - temporal patterns in pedestrian data
+[33m035e22eea[m Merge pull request #505 from Chameleon-company/Akintomiwa
+[33maf3c0d326[m Bus Stops, Pedestrians and Safety - pedestrian preprocessing
+[33m3d7b55d01[m Bus Stops, Pedestrians and Safety - bus stop preprocessing
+[33m7f675b970[m Bus Stops, Pedestrians and Safety - import datasets, two from city of Melbourne annd vic road crash data from data.vic
+[33md2c78ba3f[m responsiv design completed for header
+[33meddf9fff7[m responsiv design completed for header
+[33m35bddef2c[m (DS) CS Analysis Use Case & Real-time Parking Hotspots New API Update- 100%
+[33mf035ff6b3[m forgot-password
+[33mc8449ddad[m Bin Fill Level - preprocessing update
+[33m4e5cdce87[m Bin Fill Level - map locations of update code for popup
+[33m39db3d7f3[m Merge pull request #537 from Chameleon-company/HoangDuyVu-webdev-tailwind
+[33m3c7669a53[m Merge pull request #538 from Chameleon-company/VictorXiao
+[33m7c25ab486[m StatisticPage_UI_DEV_VictorXiao_#PR3
+[33m3d0ba54ed[m Bin Fill Level - map locations of sensors
+[33m50bb00bff[m removed signup normal css
+[33m68f2ac030[m - Translated CSS for Sign Up page
+[33m6e5d64bbe[m Update banner_booking.ipynb
+[33m98dfc7d61[m Merge pull request #535 from Chameleon-company/simranjitsingh
+[33m1b1366958[m Merge pull request #474 from Chameleon-company/Kashish_
+[33m5493e6d06[m Merge branch 'master' of https://github.com/Chameleon-company/MOP-Code into HoangDuyVu-webdev-tailwind
+[33mc1ff5ba10[m Merge pull request #532 from Chameleon-company/Daljeet
+[33m1a95ab31a[m Merge pull request #489 from AliColli/master
+[33m47241c8de[m Pedestrian Counts and Bus Stops API update - update colur in map marker
+[33ma68e01ca5[m Pedestrian Counts and Bus Stops API update - update spelling
+[33m9f8640db3[m Green Walls - update locatiions of pedestrian counts to only include mean in pop up
+[33md440faaf0[m Green Walls - add create PM2.5 dataframe and line graph
+[33m41cf38c2f[m Pull requests doumentation added into documentation for datascience folder, pdf and doc
+[33m7708f6875[m Pedestrian Counts and Bus Stops API update - confusion matrix output for modelling
+[33m4018a2e03[m Pedestrian Counts and Bus Stops API update - oversampling logistic regression
+[33m41c27a619[m Pedestrian Counts and Bus Stops API update - bootstrapping with random forest
+[33mbb7f1d969[m Pedestrian Counts and Bus Stops API update - SMOTE oversamping
+[33m938ca12c8[m Pedestrian Counts and Bus Stops API update - undersampling for modelling
+[33m32923c002[m Final Pull Request
+[33mee9bc75a5[m updated new icons images
+[33md0d9bd16e[m Merge pull request #516 from Chameleon-company/Manasa
+[33m033efc627[m Bin Fill Level - modelling update some variable names to better suit data
+[33m1394458e2[m Bin Fill Level - SVR radial basis parameter tuning, modelling and discussion
+[33mddbec5d11[m Bin Fill Level - SVR polynomial parameter tuning, modelling and discussion
+[33mab2db4454[m Bin Fill Level - SVR linear parameter tuning, modelling and discussion
+[33m21a93510c[m Bin Fill Level - test train split of dataset
+[33mf35ef08a2[m Bin Fill Level - reasoning choosen for regression and model type in markdown
+[33mbe4376a2a[m Bin Fill Level - linear regression discussion of results
+[33m3b2965ab5[m Bin Fill Level - linear regression modelling
+[33m5c501996b[m Bin Fill Level - discussion of predictive modelling methodology
+[33mfd67f447d[m Bin Fill Level - z-score scaling in code
+[33m7af37e0e4[m Bin Fill Level - feature selection in code
+[33mb3d6f3378[m Bin Fill Level - feature transformation zscore scaling
+[33m22cd6093a[m Bin Fill Level - feature selection state features not required
+[33maf4d25bd6[m Bin Fill Level - feature selection methods discussion
+[33m1eb91612b[m Created using Colab
+[33m240ed70e6[m adjust css
+[33mcbc7c07aa[m Fixed styles
+[33m440906584[m Pedestrian Counts and Bus Stops API update - grid search hyperparameters random forest
+[33m6471ba9af[m KNN decision boundary classifier
+[33mb8f9458b8[m encoding functions
+[33m87e4e2885[m PCA and TSNE function
+[33m0e7201c0a[m Revert "KNN classifier"
+[33m9c3e3f6b1[m KNN classifier
+[33meaeea674a[m Pedestrian Counts and Bus Stops API update - hyperparameter tuning part 1
+[33m7a70e2df0[m Green Walls - add dataset descriptions
+[33med140c33f[m Pedestrian Counts and Bus Stops API update - add tree graph title
+[33mf1c7495b9[m Pedestrian Counts and Bus Stops API update - convert column graph of bus and non bus stops to tree map
+[33m313861d9e[m Pedestrian Counts and Bus Stops API update - update all folium map titles
+[33ma675f87c7[m Pedestrian Counts and Bus Stops API update - update folium map headings
+[33mbe2c409e4[m Pedestrian Counts and Bus Stops API update - update folium map to circle markers for locations of pedestrian counters and bus stops

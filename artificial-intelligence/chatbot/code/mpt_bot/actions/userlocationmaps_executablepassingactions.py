@@ -95,7 +95,7 @@ def find_nearest_station(lat, lon, kdtree, df):
     
     return nearest_station, distance_meters, distance
 
-def find_nearest_tram_stop(lat, lon, tram_kdtree, tram_df):
+def cd:
     '''
     by Jubal: Returns the coordinates of the nearest tram station.
     '''
