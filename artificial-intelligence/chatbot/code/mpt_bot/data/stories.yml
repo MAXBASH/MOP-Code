@@ -147,5 +147,10 @@ stories:
   
   - story: Find next bus
     steps:
-	- intent: find_next_bus
-	- action: action_find_next_bus
+    - intent: find_next_bus
+    - action: action_find_next_bus
+
+  - story: Find nearest tram stop to a station
+    steps:
+    - intent: ask_closest_tram_stop
+    - action: action_find_closest_tram_stop

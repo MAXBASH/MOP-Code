@@ -660,3 +660,67 @@ class GTFSUtils:
         except Exception as e:
             logger.error(f"Failed to generate route map for trip ID {trip_id}: {str(e)}")
             return None
+
+    @staticmethod
+    def get_tram_stop_id(location: str, stops_df: pd.DataFrame) -> Optional[str]:
+        """
+        by: Jubal
+        Finds the nearest tram stop ID to the given location.
+
+        :param location: The user-provided location or station name.
+        :param stops_df: DataFrame containing tram stop data.
+        :return: The stop ID of the nearest tram stop, or None if not found.
+        """
+        # Normalize the input location
+        location = location.strip().lower()
+        stops_df['normalized_stop_name'] = stops_df['stop_name'].str.lower()
+
+        # Find the nearest stop based on the normalized name
+        matched_stop = stops_df.loc[stops_df['normalized_stop_name'].str.contains(location, na=False)]
+        if not matched_stop.empty:
+            return matched_stop.iloc[0]['stop_id']
+        else:
+            return None
+
+    @staticmethod
+    def get_tram_stop_name(stop_id: str, stops_df: pd.DataFrame) -> Optional[str]:
+        """
+        By: Jubal
+        Gets the tram stop name for a given stop ID.
+
+        :param stop_id: The stop ID to lookup.
+        :param stops_df: DataFrame containing tram stop data.
+        :return: The stop name, or None if not found.
+        """
+        matched_stop = stops_df.loc[stops_df['stop_id'] == stop_id]
+        if not matched_stop.empty:
+            return matched_stop.iloc[0]['stop_name']
+        else:
+            return None
+
+    @staticmethod
+    def get_nearest_tram_stop(lat: float, lon: float, tram_df: pd.DataFrame) -> pd.Series:
+        """
+        By: Jubal
+        Finds the nearest tram stop to a given latitude and longitude.
+
+        :param lat: Latitude of the location.
+        :param lon: Longitude of the location.
+        :param tram_df: DataFrame containing tram stop details.
+        :param tram_kdtree: KDTree for tram stops for efficient nearest neighbor search.
+        :return: Details of the nearest tram stop as a pandas Series.
+        """
+        try:
+            coords = tram_df[["stop_lat", "stop_lon"]].values
+            kdtree = KDTree(coords)
+            # Use the KDTree to find the nearest tram stop
+            nearest_tram_stop, distance_meters = find_nearest_tram_stop(lat, lon, kdtree, tram_df)
+            # Return the nearest tram stop details
+            return {
+                "stop_id": nearest_tram_stop["stop_id"],
+                "stop_name": nearest_tram_stop["stop_name"],
+                "distance_meters": distance_meters
+            }
+        except Exception as e:
+            logger.error(f"Error finding the nearest tram stop: {e}")
+            return None

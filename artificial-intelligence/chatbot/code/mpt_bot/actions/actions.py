@@ -1153,3 +1153,64 @@ class ActionListStationsWithFeature(Action):
             dispatcher.utter_message(text=f"Stations with {feature}: {stations_list}")
 
         return []
+
+class ActionFindClosestTramStop(Action):
+    '''
+    By Jubal
+    '''
+
+    def name(self) -> Text:
+        return "action_find_closest_tram_stop"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        print(stops_df.head())
+        print(stops_df['stop_name'].unique())
+        print(stops_df['normalized_stop_name'].unique())
+
+        try:
+            # Extract user query and determine the station
+            query = tracker.latest_message.get('text')
+            station_name = GTFSUtils.extract_stations_from_query(query, stops_df)
+
+            if not station_name:
+                dispatcher.utter_message(text="Sorry, I couldn't find any station in your query. Please try again.")
+                return []
+
+            station_name = station_name[0]  # Assuming the user provides one station in the query
+
+            # Get the latitude and longitude of the specified train station
+            train_station_info = stops_df[stops_df['stop_name'].str.contains(station_name, case=False, na=False)]
+            print(train_station_info)
+            if train_station_info.empty:
+                dispatcher.utter_message(text=f"Could not find the station '{station_name}'. Please try again.")
+                return []
+
+            train_lat = train_station_info.iloc[0]['stop_lat']
+            train_lon = train_station_info.iloc[0]['stop_lon']
+
+            # Find the nearest tram stop to the train station
+            nearest_tram_stop = GTFSUtils.get_nearest_tram_stop(train_lat, train_lon, tram_stops)
+
+            if not nearest_tram_stop:
+                dispatcher.utter_message(text=f"Could not find any nearby tram stops to '{station_name}'.")
+                return []
+
+            # Retrieve the tram stop name and ID
+            tram_stop_id = GTFSUtils.get_tram_stop_id(nearest_tram_stop)
+            tram_stop_name = GTFSUtils.get_tram_stop_name(nearest_tram_stop)
+
+            response = (
+                f"The nearest tram stop to {station_name} is '{tram_stop_name}' "
+                f"with stop ID: {tram_stop_id}."
+            )
+            dispatcher.utter_message(text=response)
+
+        except Exception as e:
+            logger.error(f"Error in ActionFindClosestTramStop: {str(e)}")
+            dispatcher.utter_message(
+                text="An error occurred while finding the closest tram stop. Please try again.")
+
+        return []

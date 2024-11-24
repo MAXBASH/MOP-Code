@@ -114,3 +114,8 @@ rules:
   steps:
     - intent: request_bus_map
     - action: action_generate_bus_map
+
+- rule: Provide closest tram stop
+  steps:
+    - intent: ask_closest_tram_stop
+    - action: action_find_closest_tram_stop

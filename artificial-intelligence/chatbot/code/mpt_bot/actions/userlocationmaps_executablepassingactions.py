@@ -95,6 +95,18 @@ def find_nearest_station(lat, lon, kdtree, df):
     
     return nearest_station, distance_meters, distance
 
+def find_nearest_tram_stop(lat, lon, tram_kdtree, tram_df):
+    '''
+    by Jubal: Returns the coordinates of the nearest tram station.
+    '''
+    distance, index = tram_kdtree.query([lat, lon])
+    nearest_tram_stop = tram_df.iloc[index]
+    nearest_tram_stop_coords = (nearest_tram_stop["stop_lat"], nearest_tram_stop["stop_lon"])
+    point_coords = (lat, lon)
+    distance_meters = geodesic(point_coords, nearest_tram_stop_coords).meters
+    return nearest_tram_stop, distance_meters
+
+
 #Function getting written directions and time to travel
 def extract_directions(route, distance_threshold=50):
     steps = route['features'][0]['properties']['segments'][0]['steps']

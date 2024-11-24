@@ -338,6 +338,18 @@ nlu:
     - Can I see a map of bus stops?
     - Create a bus map
 
+- intent: ask_closest_tram_stop
+  examples: |
+    - What is the nearest tram stop from [Caulfield station](station_name)?
+    - Can you tell me the closest tram stop near [Richmond station](station_name)?
+    - Which tram stop is closest to [Flinders Street station](station_name)?
+    - Where can I catch a tram near [Melbourne Central station](station_name)?
+    - What tram stop is closest to [Southern Cross station](station_name)?
+    - Closest tram stop to [Parliament station](station_name)?
+    - Nearest tram stop from [Flagstaff station](station_name)?
+    - Is there a tram stop near [Caulfield station](station_name)?
+    - Tell me the tram stop closest to [Richmond station](station_name)
+
 entities:
   - station_name
   - feature
