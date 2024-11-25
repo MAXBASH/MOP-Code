@@ -95,11 +95,11 @@ def find_nearest_station(lat, lon, kdtree, df):
     
     return nearest_station, distance_meters, distance
 
-def cd:
+def find_nearest_tram_stop(lat, lon, kdtree, tram_df):
     '''
     by Jubal: Returns the coordinates of the nearest tram station.
     '''
-    distance, index = tram_kdtree.query([lat, lon])
+    distance, index = kdtree.query([lat, lon])
     nearest_tram_stop = tram_df.iloc[index]
     nearest_tram_stop_coords = (nearest_tram_stop["stop_lat"], nearest_tram_stop["stop_lon"])
     point_coords = (lat, lon)
