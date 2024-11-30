@@ -69,7 +69,7 @@ rules:
 - rule: Find quickest route with transfers
   steps:
   - intent: ask_quickest_route
-  - action: action_find_best_route_with_transfers
+  - action: action_find_best_route
 
 - rule: Ask for location when running direction script
   steps:
@@ -119,3 +119,8 @@ rules:
   steps:
     - intent: ask_closest_tram_stop
     - action: action_find_closest_tram_stop
+
+- rule: Find direct tram route
+  steps:
+    - intent: ask_direct_tram_route
+    - action: action_check_direct_tram_route

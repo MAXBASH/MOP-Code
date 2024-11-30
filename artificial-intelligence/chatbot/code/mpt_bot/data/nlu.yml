@@ -107,7 +107,7 @@ nlu:
   examples: |
     - What is the best route from [Southern Cross](station_a) to [Richmond](station_b)?
     - How do I get from [Flinders Street](station_a) to [Melbourne Central](station_b)?
-    - Show me the fastest route from [North Melbourne](station_a) to [Footscray](station_b)
+    - Show me the fastestx route from [North Melbourne](station_a) to [Footscray](station_b)
     - Can you tell me the quickest way from [South Yarra](station_a) to [Hawthorn](station_b)?
     - I need directions from [Parliament](station_a) to [Flagstaff](station_b)
     - What’s the best way to go from [Box Hill](station_a) to [Glenferrie](station_b)?
@@ -350,9 +350,35 @@ nlu:
     - Is there a tram stop near [Caulfield station](station_name)?
     - Tell me the tram stop closest to [Richmond station](station_name)
 
+- intent: ask_direct_tram_route
+  examples: |
+    - What tram should I take from [Docklands] to [Southbank]?
+    - Is there a tram from [Richmond] to [Chapel Street]?
+    - How can I get by tram from [Federation Square] to [St Kilda]?
+    - Can you find a tram from [Queen Victoria Market] to [Flinders Street]?
+    - Show me the tram route from [Hawthorn] to [Box Hill].
+    - Which tram connects [East Malvern] to [Prahran]?
+    - Is there a direct tram between [Brunswick] and [Collingwood]?
+    - Tell me the tram route from [North Melbourne] to [South Yarra].
+    - How do I go by tram from [Melbourne Zoo] to [Royal Botanic Gardens]?
+    - I need a tram route from [Carlton] to [Parkville].
+    - Can you suggest a tram from [Albert Park] to [Spencer Street]?
+    - Is there a tram from [Elsternwick] to [Southbank]?
+    - Which tram should I catch to go from [Brunswick Street] to [Docklands]?
+    - Are there trams that connect [Essendon] and [Toorak]?
+    - Find a tram route between [Melbourne Central] and [MCG].
+    - What is the tram route from [Burnley] to [Richmond]?
+    - Suggest a tram from [Southern Cross] to [Caulfield].
+    - Which tram runs between [Flemington] and [East Melbourne]?
+    - Can I catch a tram from [Footscray] to [Maribyrnong]?
+    - How can I travel by tram from [Kew] to [Balwyn]?
+
 entities:
   - station_name
   - feature
+  - station_a
+  - station_b
+
 
 synonyms:
   flinders street station:

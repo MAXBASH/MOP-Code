@@ -123,7 +123,7 @@ stories:
 
   - story: User asks for the best route between two stations
     steps:
-    - intent: ask_best_route
+    - intent: ask_quickest_route
     - action: action_find_best_route
 
   - story: generate_map_story
@@ -154,3 +154,8 @@ stories:
     steps:
     - intent: ask_closest_tram_stop
     - action: action_find_closest_tram_stop
+
+  - story: Find direct tram route
+    steps:
+    - intent: ask_tram_route
+    - action: action_check_direct_tram_route

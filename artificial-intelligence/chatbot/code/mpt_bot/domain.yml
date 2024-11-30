@@ -30,6 +30,7 @@ intents:
   - nlu_fallback
   - list_stations_with_feature
   - ask_closest_tram_stop
+  - ask_direct_tram_route
 
 entities:
   - station_a
@@ -141,6 +142,9 @@ responses:
   utter_no_tram_stop_found:
     - text: "I couldn't find any tram stops near {station_name}. Please check and try again."
 
+  utter_tram_route:
+    - text: "The best tram route between {station_a} and {station_b} is..."
+
   utter_default:
   - text: "Sorry I didn't understand. Can you rephrase?"
 
@@ -163,3 +167,4 @@ actions:
 - action_list_all_stations
 - action_list_stations_with_feature
 - action_find_closest_tram_stop
+- action_check_direct_tram_route

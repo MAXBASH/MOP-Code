@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_bcdff6d0f6620ea6e31881155bbfe29e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_bcdff6d0f6620ea6e31881155bbfe29e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_bcdff6d0f6620ea6e31881155bbfe29e = L.map(
+                "map_bcdff6d0f6620ea6e31881155bbfe29e",
+                {
+                    center: [-37.8515632823222, 145.080511068965],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_0177718e9e987d5c6c149efea00229a8 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_0177718e9e987d5c6c149efea00229a8.addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var marker_fda17919cf0435658dd2760834b59ecf = L.marker(
+                [-37.8515632823222, 145.080511068965],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_fdd6344c0ca4f4e8d283175ba87c1490 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fda17919cf0435658dd2760834b59ecf.setIcon(icon_fdd6344c0ca4f4e8d283175ba87c1490);
+        
+    
+        var popup_bd1aff49ee6eb5898f50ef9121a59dd4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_113acb45f375659c0f1b34a2f9e9f885 = $(`<div id="html_113acb45f375659c0f1b34a2f9e9f885" style="width: 100.0%; height: 100.0%;">Stop: Burwood Railway Station (Glen Iris)<br>Stop ID: 19849</div>`)[0];
+                popup_bd1aff49ee6eb5898f50ef9121a59dd4.setContent(html_113acb45f375659c0f1b34a2f9e9f885);
+            
+        
+
+        marker_fda17919cf0435658dd2760834b59ecf.bindPopup(popup_bd1aff49ee6eb5898f50ef9121a59dd4)
+        ;
+
+        
+    
+    
+            marker_fda17919cf0435658dd2760834b59ecf.bindTooltip(
+                `<div>
+                     Burwood Railway Station (Glen Iris)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_59afc94e7990a8e61e5d2a6f8d1e48f4 = L.marker(
+                [-37.8439845657224, 145.075559591232],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_89dc830b19bb7edabc85346736958707 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_59afc94e7990a8e61e5d2a6f8d1e48f4.setIcon(icon_89dc830b19bb7edabc85346736958707);
+        
+    
+        var popup_3b69164f6d4061eb3d396e18bf268862 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d82433868b52c22fe7a44e799d5e284f = $(`<div id="html_d82433868b52c22fe7a44e799d5e284f" style="width: 100.0%; height: 100.0%;">Stop: Hartwell Railway Station (Camberwell)<br>Stop ID: 19850</div>`)[0];
+                popup_3b69164f6d4061eb3d396e18bf268862.setContent(html_d82433868b52c22fe7a44e799d5e284f);
+            
+        
+
+        marker_59afc94e7990a8e61e5d2a6f8d1e48f4.bindPopup(popup_3b69164f6d4061eb3d396e18bf268862)
+        ;
+
+        
+    
+    
+            marker_59afc94e7990a8e61e5d2a6f8d1e48f4.bindTooltip(
+                `<div>
+                     Hartwell Railway Station (Camberwell)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1b28e0808dd907924d1ca006b07ddfee = L.marker(
+                [-37.835715650541, 145.070297555358],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_0b049d28fbeccbee523c09dcb1246fe3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_1b28e0808dd907924d1ca006b07ddfee.setIcon(icon_0b049d28fbeccbee523c09dcb1246fe3);
+        
+    
+        var popup_4c5507e29c2ebe93a279cba28a31b400 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_57b90c61c0dbc096f750114d4dd634d3 = $(`<div id="html_57b90c61c0dbc096f750114d4dd634d3" style="width: 100.0%; height: 100.0%;">Stop: Willison Railway Station (Camberwell)<br>Stop ID: 19851</div>`)[0];
+                popup_4c5507e29c2ebe93a279cba28a31b400.setContent(html_57b90c61c0dbc096f750114d4dd634d3);
+            
+        
+
+        marker_1b28e0808dd907924d1ca006b07ddfee.bindPopup(popup_4c5507e29c2ebe93a279cba28a31b400)
+        ;
+
+        
+    
+    
+            marker_1b28e0808dd907924d1ca006b07ddfee.bindTooltip(
+                `<div>
+                     Willison Railway Station (Camberwell)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1c9a83703f51bec6662bcea6138053f6 = L.marker(
+                [-37.8315054341774, 145.069645982205],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_97469eec44e04e02668e896d012abf2c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_1c9a83703f51bec6662bcea6138053f6.setIcon(icon_97469eec44e04e02668e896d012abf2c);
+        
+    
+        var popup_48d77417ec0d8702907657c4d4dcd458 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_158393aa5f7af0be13e65b44947c6584 = $(`<div id="html_158393aa5f7af0be13e65b44947c6584" style="width: 100.0%; height: 100.0%;">Stop: Riversdale Railway Station (Camberwell)<br>Stop ID: 19852</div>`)[0];
+                popup_48d77417ec0d8702907657c4d4dcd458.setContent(html_158393aa5f7af0be13e65b44947c6584);
+            
+        
+
+        marker_1c9a83703f51bec6662bcea6138053f6.bindPopup(popup_48d77417ec0d8702907657c4d4dcd458)
+        ;
+
+        
+    
+    
+            marker_1c9a83703f51bec6662bcea6138053f6.bindTooltip(
+                `<div>
+                     Riversdale Railway Station (Camberwell)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_762fa17a4c7d1c2a51c84932ef4ffbbe = L.marker(
+                [-37.8265671441721, 145.058697177155],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_f82bc588f1557845ddb23fe2ebf748fd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_762fa17a4c7d1c2a51c84932ef4ffbbe.setIcon(icon_f82bc588f1557845ddb23fe2ebf748fd);
+        
+    
+        var popup_7e8f4de9e42b265d76fadba21b2bedec = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f47c034ddb8f66af6a7ecab2b66bbecd = $(`<div id="html_f47c034ddb8f66af6a7ecab2b66bbecd" style="width: 100.0%; height: 100.0%;">Stop: Camberwell Railway Station (Camberwell)<br>Stop ID: 19853</div>`)[0];
+                popup_7e8f4de9e42b265d76fadba21b2bedec.setContent(html_f47c034ddb8f66af6a7ecab2b66bbecd);
+            
+        
+
+        marker_762fa17a4c7d1c2a51c84932ef4ffbbe.bindPopup(popup_7e8f4de9e42b265d76fadba21b2bedec)
+        ;
+
+        
+    
+    
+            marker_762fa17a4c7d1c2a51c84932ef4ffbbe.bindTooltip(
+                `<div>
+                     Camberwell Railway Station (Camberwell)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c8a72f682f38a4f51edab1fbad0c0d07 = L.marker(
+                [-37.8223983064671, 145.045843657131],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_83797491d6a470e1dc233d846f9ccf19 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_c8a72f682f38a4f51edab1fbad0c0d07.setIcon(icon_83797491d6a470e1dc233d846f9ccf19);
+        
+    
+        var popup_f9d8230e756deef7d48f6174c9746032 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fce91208e94745ff89491fd31eac6142 = $(`<div id="html_fce91208e94745ff89491fd31eac6142" style="width: 100.0%; height: 100.0%;">Stop: Auburn Railway Station (Hawthorn East)<br>Stop ID: 19903</div>`)[0];
+                popup_f9d8230e756deef7d48f6174c9746032.setContent(html_fce91208e94745ff89491fd31eac6142);
+            
+        
+
+        marker_c8a72f682f38a4f51edab1fbad0c0d07.bindPopup(popup_f9d8230e756deef7d48f6174c9746032)
+        ;
+
+        
+    
+    
+            marker_c8a72f682f38a4f51edab1fbad0c0d07.bindTooltip(
+                `<div>
+                     Auburn Railway Station (Hawthorn East)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f35e676d15171accbb3f0befcaac1799 = L.marker(
+                [-37.8214668222169, 145.036438832309],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_fb5376e4e21ab4ffeedb9c84be0688f3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f35e676d15171accbb3f0befcaac1799.setIcon(icon_fb5376e4e21ab4ffeedb9c84be0688f3);
+        
+    
+        var popup_3fedf635f34ceb41a037e487e1a8dfe6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cbaf3ebf0044f46dc8489deeef24510c = $(`<div id="html_cbaf3ebf0044f46dc8489deeef24510c" style="width: 100.0%; height: 100.0%;">Stop: Glenferrie Railway Station (Hawthorn)<br>Stop ID: 19904</div>`)[0];
+                popup_3fedf635f34ceb41a037e487e1a8dfe6.setContent(html_cbaf3ebf0044f46dc8489deeef24510c);
+            
+        
+
+        marker_f35e676d15171accbb3f0befcaac1799.bindPopup(popup_3fedf635f34ceb41a037e487e1a8dfe6)
+        ;
+
+        
+    
+    
+            marker_f35e676d15171accbb3f0befcaac1799.bindTooltip(
+                `<div>
+                     Glenferrie Railway Station (Hawthorn)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0565b1b491e7bf7b5f79a4951e62a967 = L.marker(
+                [-37.8218260089769, 145.02289865876],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_edbdc904c01d3ba8a486b32b8b3b1e98 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_0565b1b491e7bf7b5f79a4951e62a967.setIcon(icon_edbdc904c01d3ba8a486b32b8b3b1e98);
+        
+    
+        var popup_891c2b1c081a7af98d66dee88bfd42c7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1010600f8dc839b0cbe8415220d160fd = $(`<div id="html_1010600f8dc839b0cbe8415220d160fd" style="width: 100.0%; height: 100.0%;">Stop: Hawthorn Railway Station (Hawthorn)<br>Stop ID: 19905</div>`)[0];
+                popup_891c2b1c081a7af98d66dee88bfd42c7.setContent(html_1010600f8dc839b0cbe8415220d160fd);
+            
+        
+
+        marker_0565b1b491e7bf7b5f79a4951e62a967.bindPopup(popup_891c2b1c081a7af98d66dee88bfd42c7)
+        ;
+
+        
+    
+    
+            marker_0565b1b491e7bf7b5f79a4951e62a967.bindTooltip(
+                `<div>
+                     Hawthorn Railway Station (Hawthorn)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_95e5a0c65aa14a9fb446b591f1a89b27 = L.marker(
+                [-37.8275602161722, 145.007555147088],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_7caa92e8d8217da671d8279a58a98f47 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_95e5a0c65aa14a9fb446b591f1a89b27.setIcon(icon_7caa92e8d8217da671d8279a58a98f47);
+        
+    
+        var popup_0219d8ae3f51d01fa35badbf5f6fb481 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5234b9ddb57f8a6000a9c5fdf2843003 = $(`<div id="html_5234b9ddb57f8a6000a9c5fdf2843003" style="width: 100.0%; height: 100.0%;">Stop: Burnley Railway Station (Burnley)<br>Stop ID: 19906</div>`)[0];
+                popup_0219d8ae3f51d01fa35badbf5f6fb481.setContent(html_5234b9ddb57f8a6000a9c5fdf2843003);
+            
+        
+
+        marker_95e5a0c65aa14a9fb446b591f1a89b27.bindPopup(popup_0219d8ae3f51d01fa35badbf5f6fb481)
+        ;
+
+        
+    
+    
+            marker_95e5a0c65aa14a9fb446b591f1a89b27.bindTooltip(
+                `<div>
+                     Burnley Railway Station (Burnley)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_178a896a13179cb864375ca3e66f5060 = L.marker(
+                [-37.8240744554307, 144.990164256273],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_e9d00801d59817cda25cd6c71caf7c9e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_178a896a13179cb864375ca3e66f5060.setIcon(icon_e9d00801d59817cda25cd6c71caf7c9e);
+        
+    
+        var popup_416b2b9091acbb4b03fa974614456425 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5f48b5c43f2ad351be0905c5a6d2bbe8 = $(`<div id="html_5f48b5c43f2ad351be0905c5a6d2bbe8" style="width: 100.0%; height: 100.0%;">Stop: Richmond Railway Station (Richmond)<br>Stop ID: 19908</div>`)[0];
+                popup_416b2b9091acbb4b03fa974614456425.setContent(html_5f48b5c43f2ad351be0905c5a6d2bbe8);
+            
+        
+
+        marker_178a896a13179cb864375ca3e66f5060.bindPopup(popup_416b2b9091acbb4b03fa974614456425)
+        ;
+
+        
+    
+    
+            marker_178a896a13179cb864375ca3e66f5060.bindTooltip(
+                `<div>
+                     Richmond Railway Station (Richmond)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2e35b38911e2f0966aca17798788ded1 = L.marker(
+                [-37.8110540555366, 144.972910916416],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_811e1b962b406f955131a75ad6459d97 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2e35b38911e2f0966aca17798788ded1.setIcon(icon_811e1b962b406f955131a75ad6459d97);
+        
+    
+        var popup_ae8e8854c336424488eab16292e5071f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_599f62089f1099041ac305b6d774f6ab = $(`<div id="html_599f62089f1099041ac305b6d774f6ab" style="width: 100.0%; height: 100.0%;">Stop: Parliament Railway Station (Melbourne City)<br>Stop ID: 19843</div>`)[0];
+                popup_ae8e8854c336424488eab16292e5071f.setContent(html_599f62089f1099041ac305b6d774f6ab);
+            
+        
+
+        marker_2e35b38911e2f0966aca17798788ded1.bindPopup(popup_ae8e8854c336424488eab16292e5071f)
+        ;
+
+        
+    
+    
+            marker_2e35b38911e2f0966aca17798788ded1.bindTooltip(
+                `<div>
+                     Parliament Railway Station (Melbourne City)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9a4e7d2b18dcb6719f1128f8b88a4b4e = L.marker(
+                [-37.8099387667448, 144.962593535096],
+                {}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+    
+            var icon_e858dd8d07846a6c9f645958721cec65 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9a4e7d2b18dcb6719f1128f8b88a4b4e.setIcon(icon_e858dd8d07846a6c9f645958721cec65);
+        
+    
+        var popup_3b9a3e6d1c9e4de2a3f428154fd257f7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e43c02bdfb4a4a6395990f20874a5425 = $(`<div id="html_e43c02bdfb4a4a6395990f20874a5425" style="width: 100.0%; height: 100.0%;">Stop: Melbourne Central Railway Station (Melbourne City)<br>Stop ID: 19842</div>`)[0];
+                popup_3b9a3e6d1c9e4de2a3f428154fd257f7.setContent(html_e43c02bdfb4a4a6395990f20874a5425);
+            
+        
+
+        marker_9a4e7d2b18dcb6719f1128f8b88a4b4e.bindPopup(popup_3b9a3e6d1c9e4de2a3f428154fd257f7)
+        ;
+
+        
+    
+    
+            marker_9a4e7d2b18dcb6719f1128f8b88a4b4e.bindTooltip(
+                `<div>
+                     Melbourne Central Railway Station (Melbourne City)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var poly_line_47f9aaa56fbdc088d809e351faa1dcaf = L.polyline(
+                [[-37.8515632823222, 145.080511068965], [-37.8439845657224, 145.075559591232], [-37.835715650541, 145.070297555358], [-37.8315054341774, 145.069645982205], [-37.8265671441721, 145.058697177155], [-37.8223983064671, 145.045843657131], [-37.8214668222169, 145.036438832309], [-37.8218260089769, 145.02289865876], [-37.8275602161722, 145.007555147088], [-37.8240744554307, 144.990164256273], [-37.8110540555366, 144.972910916416], [-37.8099387667448, 144.962593535096]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5}
+            ).addTo(map_bcdff6d0f6620ea6e31881155bbfe29e);
+        
+</script>
+</html>

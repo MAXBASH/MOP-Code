@@ -36,6 +36,7 @@ from collections import deque
 import certifi
 from sanic import Sanic
 from sanic.response import text
+import re
 
 logger = logging.getLogger(__name__)
 # Load spaCy NLP model
@@ -99,7 +100,6 @@ class GTFSUtils:
             trips_df = pd.read_csv(os.path.join(dataset_path, 'trips.txt'))
             stop_times_df = pd.read_csv(os.path.join(dataset_path, 'stop_times.txt'))
             calendar_df = pd.read_csv(os.path.join(dataset_path, 'calendar.txt'))
-
             # Normalize the data
             GTFSUtils.normalise_gtfs_data(stops_df, stop_times_df)
 
@@ -699,28 +699,45 @@ class GTFSUtils:
             return None
 
     @staticmethod
-    def get_nearest_tram_stop(lat: float, lon: float, tram_df: pd.DataFrame) -> pd.Series:
+    def simplify_stop_name(stop_name: str) -> str:
         """
-        By: Jubal
-        Finds the nearest tram stop to a given latitude and longitude.
+        Simplify tram stop names by removing leading numbers, parentheses, and extra details.
+        """
+        # Remove leading numbers and hyphens (e.g., "45-")
+        stop_name = re.sub(r'^\d+[-\s]*', '', stop_name)
 
-        :param lat: Latitude of the location.
-        :param lon: Longitude of the location.
-        :param tram_df: DataFrame containing tram stop details.
-        :param tram_kdtree: KDTree for tram stops for efficient nearest neighbor search.
-        :return: Details of the nearest tram stop as a pandas Series.
+        # Remove text within parentheses (e.g., "(Malvern)")
+        stop_name = re.sub(r'\(.*?\)', '', stop_name)
+
+        # Convert to lowercase and strip extra whitespace
+        return stop_name.lower().strip()
+
+    @staticmethod
+    def normalise_tram_stop_names(stops_df: pd.DataFrame, stop_times_df: pd.DataFrame) -> None:
         """
-        try:
-            coords = tram_df[["stop_lat", "stop_lon"]].values
-            kdtree = KDTree(coords)
-            # Use the KDTree to find the nearest tram stop
-            nearest_tram_stop, distance_meters = find_nearest_tram_stop(lat, lon, kdtree, tram_df)
-            # Return the nearest tram stop details
-            return {
-                "stop_id": nearest_tram_stop["stop_id"],
-                "stop_name": nearest_tram_stop["stop_name"],
-                "distance_meters": distance_meters
-            }
-        except Exception as e:
-            logger.error(f"Error finding the nearest tram stop: {e}")
-            return None
+        Normalize tram stop names and ensure the stop_times DataFrame is indexed correctly for chatbot queries.
+        Author: AlexT
+        """
+        # Normalize `stop_name` and `stop_id`
+        stops_df['stop_name'] = stops_df['stop_name'].astype(str).str.strip()
+        stops_df['stop_id'] = stops_df['stop_id'].astype(str).str.strip()
+
+        # Create a normalized column for simplified stop names
+        stops_df['normalized_stop_name'] = stops_df['stop_name'].apply(GTFSUtils.simplify_stop_name)
+
+        # Log the first few rows for debugging
+        logger.info(f"Normalized tram stop names: {stops_df[['stop_name', 'normalized_stop_name']].head()}")
+
+        # Normalize `stop_id` in stop_times_df
+        stop_times_df['st  op_id'] = stop_times_df['stop_id'].astype(str).str.strip()
+        # Ensure `stop_times_df` contains required columns and set the index
+        expected_columns = ['stop_id', 'trip_id', 'arrival_time', 'departure_time']
+
+        if all(col in stop_times_df.columns for col in expected_columns):
+            try:
+                stop_times_df.set_index(['stop_id', 'trip_id'], inplace=True)
+            except KeyError as e:
+                logger.error(f"Error setting index: {e}")
+        else:
+            logger.error("Expected columns are not present in the stop_times DataFrame.")
+            logger.error("Available columns: %s", stop_times_df.columns)
